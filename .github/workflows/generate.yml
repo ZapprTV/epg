@@ -27,8 +27,27 @@ jobs:
           bun install
           bun generate.mjs
 
-      - name: Commit
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Carica per GitHub Pages
+        uses: actions/upload-pages-artifact@v3
         with:
-          commit_message: "Genera EPG"
-          file_pattern: "output/"
+          path: ./output
+
+  deploy:
+    name: Deploy
+    needs: generate
+
+    permissions:
+      pages: write
+      id-token: write
+      
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+
+    steps:
+      - name: Scarica & deploya artifact
+        id: deployment
+        uses: actions/deploy-pages@v4
