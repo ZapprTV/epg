@@ -1,0 +1,34 @@
+name: Genera EPG
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 */4 * * *"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Installa Bun
+        uses: oven-sh/setup-bun@v2
+
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Genera EPG
+        shell: bash
+        working-directory: ./
+        run: |
+          bun install
+          bun generate.mjs
+
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Genera EPG"
+          file_pattern: "output/"

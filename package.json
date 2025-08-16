@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "linkedom": "^0.18.11",
+    "luxon": "^3.7.1"
+  }
+}
