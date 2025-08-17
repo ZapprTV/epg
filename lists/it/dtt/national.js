@@ -13,7 +13,7 @@ export default {
     mediaset: { fetch: mediaset, channels: ["ER", "EC", "EW"] },
     raiplaysound: { fetch: raiplaysound, channels: ["rai-radio-1", "rai-radio-2", "rai-radio-3", "rai-radio-gr-parlamento", "rai-isoradio", "rai-radio-3-classica", "rai-radio-kids", "rai-radio-live-napoli", "rai-radio-techete", "rai-radio-tutta-italiana", "rai-radio-1-sport", "no-name-radio"] },
     tivu: { fetch: tivu, channels: [130, 295, 136, 277] },
-    sky: { fetch: sky, channels: [9099, 308] },
+    sky: { fetch: sky, channels: [9099, 308, 8293, 10616] },
     publirose: { fetch: publirose, channels: ["telecampione"] },
     cusano: { fetch: cusano, channels: ["canale122", "radiocusanocampus"] }
 };
