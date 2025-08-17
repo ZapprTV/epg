@@ -6,6 +6,8 @@ import tivu from "../../../sources/tivu";
 import sky from "../../../sources/sky";
 import publirose from "../../../sources/publirose";
 import cusano from "../../../sources/cusano";
+import superguidatv from "../../../sources/superguidatv";
+import teleboy from "../../../sources/teleboy"
 
 export default {
     raiplay: { fetch: raiplay, channels: ["rai-1", "rai-2", "rai-3", "rai-4", "rai-5", "rai-movie", "rai-premium", "rai-gulp", "rai-yoyo", "rai-news-24", "rai-storia", "rai-scuola", "rai-sport", "rai-radio-2"] },
@@ -15,5 +17,7 @@ export default {
     tivu: { fetch: tivu, channels: [130, 295, 136, 277] },
     sky: { fetch: sky, channels: [9099, 308, 8293, 10616] },
     publirose: { fetch: publirose, channels: ["telecampione"] },
-    cusano: { fetch: cusano, channels: ["canale122", "radiocusanocampus"] }
+    cusano: { fetch: cusano, channels: ["canale122", "radiocusanocampus"] },
+    superguidatv: { fetch: superguidatv, channels: [1284191387, 464] },
+    teleboy: { fetch: teleboy, channels: [552] }
 };
