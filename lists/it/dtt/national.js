@@ -7,6 +7,8 @@ import sky from "../../../sources/sky";
 import publirose from "../../../sources/publirose";
 import cusano from "../../../sources/cusano";
 import superguidatv from "../../../sources/superguidatv";
+import samsungtvplus from "../../../sources/samsungtvplus";
+import rtl from "../../../sources/rtl";
 
 export default {
     raiplay: { fetch: raiplay, channels: ["rai-1", "rai-2", "rai-3", "rai-4", "rai-5", "rai-movie", "rai-premium", "rai-gulp", "rai-yoyo", "rai-news-24", "rai-storia", "rai-scuola", "rai-sport", "rai-radio-2"] },
@@ -17,5 +19,7 @@ export default {
     sky: { fetch: sky, channels: [9099, 308, 8293, 10616] },
     publirose: { fetch: publirose, channels: ["telecampione"] },
     cusano: { fetch: cusano, channels: ["canale122", "radiocusanocampus"] },
-    superguidatv: { fetch: superguidatv, channels: [1284191387, 464] }
+    superguidatv: { fetch: superguidatv, channels: [1284191387, 464] },
+    samsungtvplus: { fetch: samsungtvplus, channels: ["IT600001L6", "IT50001295"] },
+    rtl: { fetch: rtl, channels: ["radiofreccia", "radiozeta"] }
 };
