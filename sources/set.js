@@ -11,8 +11,8 @@ export default async function fetchEPG(channels) {
             let json = await import(`./set/${channels[channel]}.json`);
             const weekday = DateTime.now().setLocale("it").localWeekday;
             epg[channels[channel]] = json.default.filter(dayEPG => dayEPG.day >= weekday).concat(json.default.filter(dayEPG => dayEPG.day < weekday)).flatMap((dayEPG, index) => dayEPG.entries.map(entry => {
-                let startTime = DateTime.now().startOf("day").plus({ days: index }).set({ hour: entry.startTime.split(":")[0], minutes: entry.startTime.split(":")[1] });
-                let endTime = DateTime.now().startOf("day").plus({ days: index }).set({ hour: entry.endTime.split(":")[0], minutes: entry.endTime.split(":")[1] });
+                let startTime = DateTime.now().startOf("day").plus({ days: index }).set({ hour: entry.startTime.split(":")[0], minutes: entry.startTime.split(":")[1] }).setZone("Europe/Rome");
+                let endTime = DateTime.now().startOf("day").plus({ days: index }).set({ hour: entry.endTime.split(":")[0], minutes: entry.endTime.split(":")[1] }).setZone("Europe/Rome");
                 if (startTime.ts > endTime.ts) endTime = endTime.plus({ days: 1 });
                 if (entry.image && entry.image.startsWith("/")) entry.image = `${imageHost}/set-images/${entry.image.slice(1, 2)}${entry.image}`;
                 entry.startTime = {
