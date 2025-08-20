@@ -1,0 +1,298 @@
+[
+    {
+        "day": 1,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "08:00",
+                "name": "La Macchina del Tempo",
+                "image": "/lamacchinadeltempo.jpg"
+            },
+            {
+                "startTime": "08:00",
+                "endTime": "10:00",
+                "name": "Giorno per Giorno cor Veleno Corve",
+                "subtitle": "Con Luca Casciani",
+                "image": "/giornopergiorno.jpg"
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "14:00",
+                "name": "Il Jukebox vicino al Mare",
+                "image": "/iljukeboxvicinoalmare.jpg"
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "17:00",
+                "name": "Gli anni del Jukebox",
+                "subtitle": "Con Paolo Famiglietti",
+                "image": "/gliannideljukebox.jpg"
+            },
+            {
+                "startTime": "17:00",
+                "endTime": "20:00",
+                "name": "Il Juke-Box vicino al Mare",
+                "image": "/iljukeboxvicinoalmare.jpg"
+            },
+            {
+                "startTime": "20:00",
+                "endTime": "23:00",
+                "name": "Tra le Nuvole",
+                "subtitle": "Con Luciana Biondi",
+                "image": "/tralenuvole.jpg"
+            },
+            {
+                "startTime": "23:00",
+                "endTime": "00:00",
+                "name": "La Macchina del Tempo",
+                "image": "/lamacchinadeltempo.jpg"
+            }
+        ]
+    },
+    {
+        "day": 2,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "08:00",
+                "name": "La Macchina del Tempo",
+                "image": "/lamacchinadeltempo.jpg"
+            },
+            {
+                "startTime": "08:00",
+                "endTime": "10:00",
+                "name": "Giorno per Giorno cor Veleno Corve",
+                "subtitle": "Con Luca Casciani",
+                "image": "/giornopergiorno.jpg"
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "14:00",
+                "name": "Il Jukebox vicino al Mare",
+                "image": "/iljukeboxvicinoalmare.jpg"
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "17:00",
+                "name": "Gli anni del Jukebox",
+                "subtitle": "Con Paolo Famiglietti",
+                "image": "/gliannideljukebox.jpg"
+            },
+            {
+                "startTime": "17:00",
+                "endTime": "20:00",
+                "name": "Il Juke-Box vicino al Mare",
+                "image": "/iljukeboxvicinoalmare.jpg"
+            },
+            {
+                "startTime": "20:00",
+                "endTime": "23:00",
+                "name": "Tra le Nuvole",
+                "subtitle": "Con Luciana Biondi",
+                "image": "/tralenuvole.jpg"
+            },
+            {
+                "startTime": "23:00",
+                "endTime": "00:00",
+                "name": "La Macchina del Tempo",
+                "image": "/lamacchinadeltempo.jpg"
+            }
+        ]
+    },
+    {
+        "day": 3,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "08:00",
+                "name": "La Macchina del Tempo",
+                "image": "/lamacchinadeltempo.jpg"
+            },
+            {
+                "startTime": "08:00",
+                "endTime": "10:00",
+                "name": "Giorno per Giorno cor Veleno Corve",
+                "subtitle": "Con Luca Casciani",
+                "image": "/giornopergiorno.jpg"
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "14:00",
+                "name": "Il Jukebox vicino al Mare",
+                "image": "/iljukeboxvicinoalmare.jpg"
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "17:00",
+                "name": "Gli anni del Jukebox",
+                "subtitle": "Con Paolo Famiglietti",
+                "image": "/gliannideljukebox.jpg"
+            },
+            {
+                "startTime": "17:00",
+                "endTime": "20:00",
+                "name": "Il Juke-Box vicino al Mare",
+                "image": "/iljukeboxvicinoalmare.jpg"
+            },
+            {
+                "startTime": "20:00",
+                "endTime": "23:00",
+                "name": "Tra le Nuvole",
+                "subtitle": "Con Luciana Biondi",
+                "image": "/tralenuvole.jpg"
+            },
+            {
+                "startTime": "23:00",
+                "endTime": "00:00",
+                "name": "La Macchina del Tempo",
+                "image": "/lamacchinadeltempo.jpg"
+            }
+        ]
+    },
+    {
+        "day": 4,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "08:00",
+                "name": "La Macchina del Tempo",
+                "image": "/lamacchinadeltempo.jpg"
+            },
+            {
+                "startTime": "08:00",
+                "endTime": "10:00",
+                "name": "Giorno per Giorno cor Veleno Corve",
+                "subtitle": "Con Luca Casciani",
+                "image": "/giornopergiorno.jpg"
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "14:00",
+                "name": "Il Jukebox vicino al Mare",
+                "image": "/iljukeboxvicinoalmare.jpg"
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "17:00",
+                "name": "Gli anni del Jukebox",
+                "subtitle": "Con Paolo Famiglietti",
+                "image": "/gliannideljukebox.jpg"
+            },
+            {
+                "startTime": "17:00",
+                "endTime": "20:00",
+                "name": "Il Juke-Box vicino al Mare",
+                "image": "/iljukeboxvicinoalmare.jpg"
+            },
+            {
+                "startTime": "20:00",
+                "endTime": "23:00",
+                "name": "Tra le Nuvole",
+                "subtitle": "Con Luciana Biondi",
+                "image": "/tralenuvole.jpg"
+            },
+            {
+                "startTime": "23:00",
+                "endTime": "00:00",
+                "name": "La Macchina del Tempo",
+                "image": "/lamacchinadeltempo.jpg"
+            }
+        ]
+    },
+    {
+        "day": 5,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "08:00",
+                "name": "La Macchina del Tempo",
+                "image": "/lamacchinadeltempo.jpg"
+            },
+            {
+                "startTime": "08:00",
+                "endTime": "10:00",
+                "name": "Giorno per Giorno cor Veleno Corve",
+                "subtitle": "Con Luca Casciani",
+                "image": "/giornopergiorno.jpg"
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "14:00",
+                "name": "Il Jukebox vicino al Mare",
+                "image": "/iljukeboxvicinoalmare.jpg"
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "17:00",
+                "name": "Gli anni del Jukebox",
+                "subtitle": "Con Paolo Famiglietti",
+                "image": "/gliannideljukebox.jpg"
+            },
+            {
+                "startTime": "17:00",
+                "endTime": "20:00",
+                "name": "Il Juke-Box vicino al Mare",
+                "image": "/iljukeboxvicinoalmare.jpg"
+            },
+            {
+                "startTime": "20:00",
+                "endTime": "23:00",
+                "name": "Tra le Nuvole",
+                "subtitle": "Con Luciana Biondi",
+                "image": "/tralenuvole.jpg"
+            },
+            {
+                "startTime": "23:00",
+                "endTime": "00:00",
+                "name": "La Macchina del Tempo",
+                "image": "/lamacchinadeltempo.jpg"
+            }
+        ]
+    },
+    {
+        "day": 6,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "17:00",
+                "name": "La Macchina del Tempo",
+                "image": "/lamacchinadeltempo.jpg"
+            },
+            {
+                "startTime": "17:00",
+                "endTime": "23:00",
+                "name": "Il Jukebox vicino al Mare",
+                "image": "/iljukeboxvicinoalmare.jpg"
+            },
+            {
+                "startTime": "23:00",
+                "endTime": "00:00",
+                "name": "La Macchina del Tempo",
+                "image": "/lamacchinadeltempo.jpg"
+            }
+        ]
+    },
+    {
+        "day": 7,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "14:00",
+                "name": "La Macchina del Tempo",
+                "image": "/lamacchinadeltempo.jpg"
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "20:00",
+                "name": "Il Jukebox vicino al Mare",
+                "image": "/iljukeboxvicinoalmare.jpg"
+            },
+            {
+                "startTime": "20:00",
+                "endTime": "00:00",
+                "name": "La Macchina del Tempo",
+                "image": "/lamacchinadeltempo.jpg"
+            }
+        ]
+    }
+]

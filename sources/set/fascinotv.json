@@ -1,0 +1,316 @@
+[
+    {
+        "day": 1,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "06:00",
+                "name": "Programmazione notturna",
+                "image": "/adult.webp",
+                "rating": {
+                    "label": "18+",
+                    "background": "#ed1c24",
+                    "text": "#fff"
+                }
+            },
+            {
+                "startTime": "06:00",
+                "endTime": "14:00",
+                "name": "Televendite del lotto",
+                "image": "/lotto.webp"
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "20:00",
+                "name": "Televendite di Roberto Gioielli",
+                "description": "Televendite di gioielli con Roberto Gioielli.",
+                "image": "/robertogioielli.jpg"
+            },
+            {
+                "startTime": "20:00",
+                "endTime": "00:00",
+                "name": "Televendite del lotto",
+                "image": "/lotto.webp"
+            }
+        ]
+    },
+    {
+        "day": 2,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "06:00",
+                "name": "Programmazione notturna",
+                "image": "/adult.webp",
+                "rating": {
+                    "label": "18+",
+                    "background": "#ed1c24",
+                    "text": "#fff"
+                }
+            },
+            {
+                "startTime": "06:00",
+                "endTime": "14:00",
+                "name": "Televendite del lotto",
+                "image": "/lotto.webp"
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "20:00",
+                "name": "Televendite di Roberto Gioielli",
+                "description": "Televendite di gioielli con Roberto Gioielli.",
+                "image": "/robertogioielli.jpg"
+            },
+            {
+                "startTime": "20:00",
+                "endTime": "20:30",
+                "name": "Estrazione del lotto",
+                "image": "/lotto.webp"
+            },
+            {
+                "startTime": "20:30",
+                "endTime": "21:00",
+                "name": "Televendite del lotto",
+                "image": "/lotto.webp"
+            },
+            {
+                "startTime": "21:00",
+                "endTime": "22:00",
+                "name": "Is Good For You",
+                "description": "Format televisivo dedicato ai videoclip musicali delle hit del momento con uno sguardo alle canzoni che hanno caratterizzato agli anni 90. Il team di conduttori, con ritmo, racconta curiosità legate al mondo dello spettacolo e del lifestyle oltre a presentare servizi realizzati in locali, bar, pub, discoteche, eventi, stabilimenti balneari e attività che vogliono darsi visibilità diventando il set della puntata stessa.",
+                "image": "/isgoodforyou.webp"
+            },
+            {
+                "startTime": "22:00",
+                "endTime": "00:00",
+                "name": "Cartomanzia con Helenio e Roberta",
+                "image": "/tarot.webp"
+            }
+        ]
+    },
+    {
+        "day": 3,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "06:00",
+                "name": "Programmazione notturna",
+                "image": "/adult.webp",
+                "rating": {
+                    "label": "18+",
+                    "background": "#ed1c24",
+                    "text": "#fff"
+                }
+            },
+            {
+                "startTime": "06:00",
+                "endTime": "14:00",
+                "name": "Televendite del lotto",
+                "image": "/lotto.webp"
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "20:00",
+                "name": "Televendite di Roberto Gioielli",
+                "description": "Televendite di gioielli con Roberto Gioielli.",
+                "image": "/robertogioielli.jpg"
+            },
+            {
+                "startTime": "20:00",
+                "endTime": "00:00",
+                "name": "Televendite del lotto",
+                "image": "/lotto.webp"
+            }
+        ]
+    },
+    {
+        "day": 4,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "06:00",
+                "name": "Programmazione notturna",
+                "image": "/adult.webp",
+                "rating": {
+                    "label": "18+",
+                    "background": "#ed1c24",
+                    "text": "#fff"
+                }
+            },
+            {
+                "startTime": "06:00",
+                "endTime": "14:00",
+                "name": "Televendite del lotto",
+                "image": "/lotto.webp"
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "20:00",
+                "name": "Televendite di Roberto Gioielli",
+                "description": "Televendite di gioielli con Roberto Gioielli.",
+                "image": "/robertogioielli.jpg"
+            },
+            {
+                "startTime": "20:00",
+                "endTime": "20:30",
+                "name": "Estrazione del lotto",
+                "image": "/lotto.webp"
+            },
+            {
+                "startTime": "20:30",
+                "endTime": "21:00",
+                "name": "Televendite del lotto",
+                "image": "/lotto.webp"
+            },
+            {
+                "startTime": "21:00",
+                "endTime": "22:00",
+                "name": "Il futuro di..."
+            },
+            {
+                "startTime": "22:00",
+                "endTime": "00:00",
+                "name": "Cartomanzia con Luce di Gioia",
+                "image": "/tarot.webp"
+            }
+        ]
+    },
+    {
+        "day": 5,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "06:00",
+                "name": "Programmazione notturna",
+                "image": "/adult.webp",
+                "rating": {
+                    "label": "18+",
+                    "background": "#ed1c24",
+                    "text": "#fff"
+                }
+            },
+            {
+                "startTime": "06:00",
+                "endTime": "14:00",
+                "name": "Televendite del lotto",
+                "image": "/lotto.webp"
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "20:00",
+                "name": "Televendite di Roberto Gioielli",
+                "description": "Televendite di gioielli con Roberto Gioielli.",
+                "image": "/robertogioielli.jpg"
+            },
+            {
+                "startTime": "20:00",
+                "endTime": "20:30",
+                "name": "Estrazione del lotto",
+                "image": "/lotto.webp"
+            },
+            {
+                "startTime": "20:30",
+                "endTime": "21:00",
+                "name": "Televendite del lotto",
+                "image": "/lotto.webp"
+            },
+            {
+                "startTime": "21:00",
+                "endTime": "00:00",
+                "name": "Il futuro di..."
+            }
+        ]
+    },
+    {
+        "day": 6,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "06:00",
+                "name": "Programmazione notturna",
+                "image": "/adult.webp",
+                "rating": {
+                    "label": "18+",
+                    "background": "#ed1c24",
+                    "text": "#fff"
+                }
+            },
+            {
+                "startTime": "06:00",
+                "endTime": "14:00",
+                "name": "Televendite del lotto",
+                "image": "/lotto.webp"
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "20:00",
+                "name": "Televendite di Roberto Gioielli",
+                "description": "Televendite di gioielli con Roberto Gioielli.",
+                "image": "/robertogioielli.jpg"
+            },
+            {
+                "startTime": "20:00",
+                "endTime": "20:30",
+                "name": "Estrazione del lotto",
+                "image": "/lotto.webp"
+            },
+            {
+                "startTime": "20:30",
+                "endTime": "21:00",
+                "name": "Televendite del lotto",
+                "image": "/lotto.webp"
+            },
+            {
+                "startTime": "21:00",
+                "endTime": "22:00",
+                "name": "Sanremo doc"
+            },
+            {
+                "startTime": "22:00",
+                "endTime": "00:00",
+                "name": "Il futuro di..."
+            }
+        ]
+    },
+    {
+        "day": 7,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "06:00",
+                "name": "Programmazione notturna",
+                "image": "/adult.webp",
+                "rating": {
+                    "label": "18+",
+                    "background": "#ed1c24",
+                    "text": "#fff"
+                }
+            },
+            {
+                "startTime": "06:00",
+                "endTime": "07:00",
+                "name": "Televendite del lotto",
+                "image": "/lotto.webp"
+            },
+            {
+                "startTime": "07:00",
+                "endTime": "07:30",
+                "name": "Oroscopo della Settimana",
+                "image": "/horoscope.webp"
+            },
+            {
+                "startTime": "07:30",
+                "endTime": "14:00",
+                "name": "Televendite del lotto",
+                "image": "/lotto.webp"
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "00:00",
+                "name": "Televendite di Roberto Gioielli",
+                "description": "Televendite di gioielli con Roberto Gioielli.",
+                "image": "/robertogioielli.jpg"
+            }
+        ]
+    }
+]

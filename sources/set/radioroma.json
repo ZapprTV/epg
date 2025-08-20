@@ -1,0 +1,513 @@
+[
+    {
+        "day": 1,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "05:00",
+                "name": "Night Selection",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/nightselection.webp"
+            },
+            {
+                "startTime": "05:00",
+                "endTime": "07:00",
+                "name": "Twilight",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/radioromatwilight.webp"
+            },
+            {
+                "startTime": "07:00",
+                "endTime": "10:00",
+                "name": "Breaking Bed",
+                "subtitle": "Con Rush",
+                "image": "/breakingbed.webp"
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "13:00",
+                "name": "Show Time",
+                "subtitle": "Con Paciullo",
+                "image": "/showtime.webp"
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "14:00",
+                "name": "Kiss & Go",
+                "subtitle": "Con Eleonora Pezzella",
+                "image": "/kissandgo.webp"
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "15:00",
+                "name": "Connection",
+                "subtitle": "Con Francesco Foderà",
+                "image": "/connection.webp"
+            },
+            {
+                "startTime": "15:00",
+                "endTime": "18:00",
+                "name": "Drive Time",
+                "subtitle": "Con Lele Sarallo e Lory",
+                "image": "/drivetime.webp"
+            },
+            {
+                "startTime": "18:00",
+                "endTime": "21:00",
+                "name": "Cattivissimo",
+                "subtitle": "Con Marco Rollo e Andrea Candelaresi",
+                "image": "/cattivissimo.webp"
+            },
+            {
+                "startTime": "21:00",
+                "endTime": "22:00",
+                "name": "Effetto Sera",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/effettosera.webp"
+            },
+            {
+                "startTime": "22:00",
+                "endTime": "00:00",
+                "name": "Night Selection",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/nightselection.webp"
+            }
+        ]
+    },
+    {
+        "day": 2,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "05:00",
+                "name": "Night Selection",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/nightselection.webp"
+            },
+            {
+                "startTime": "05:00",
+                "endTime": "07:00",
+                "name": "Twilight",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/radioromatwilight.webp"
+            },
+            {
+                "startTime": "07:00",
+                "endTime": "10:00",
+                "name": "Breaking Bed",
+                "subtitle": "Con Rush",
+                "image": "/breakingbed.webp"
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "13:00",
+                "name": "Show Time",
+                "subtitle": "Con Paciullo",
+                "image": "/showtime.webp"
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "14:00",
+                "name": "Kiss & Go",
+                "subtitle": "Con Eleonora Pezzella",
+                "image": "/kissandgo.webp"
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "15:00",
+                "name": "Connection",
+                "subtitle": "Con Francesco Foderà",
+                "image": "/connection.webp"
+            },
+            {
+                "startTime": "15:00",
+                "endTime": "18:00",
+                "name": "Drive Time",
+                "subtitle": "Con Lele Sarallo e Lory",
+                "image": "/drivetime.webp"
+            },
+            {
+                "startTime": "18:00",
+                "endTime": "21:00",
+                "name": "Cattivissimo",
+                "subtitle": "Con Marco Rollo e Andrea Candelaresi",
+                "image": "/cattivissimo.webp"
+            },
+            {
+                "startTime": "21:00",
+                "endTime": "22:00",
+                "name": "Effetto Sera",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/effettosera.webp"
+            },
+            {
+                "startTime": "22:00",
+                "endTime": "00:00",
+                "name": "Night Selection",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/nightselection.webp"
+            }
+        ]
+    },
+    {
+        "day": 3,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "05:00",
+                "name": "Night Selection",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/nightselection.webp"
+            },
+            {
+                "startTime": "05:00",
+                "endTime": "07:00",
+                "name": "Twilight",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/radioromatwilight.webp"
+            },
+            {
+                "startTime": "07:00",
+                "endTime": "10:00",
+                "name": "Breaking Bed",
+                "subtitle": "Con Rush",
+                "image": "/breakingbed.webp"
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "13:00",
+                "name": "Show Time",
+                "subtitle": "Con Paciullo",
+                "image": "/showtime.webp"
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "14:00",
+                "name": "Kiss & Go",
+                "subtitle": "Con Eleonora Pezzella",
+                "image": "/kissandgo.webp"
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "15:00",
+                "name": "Connection",
+                "subtitle": "Con Francesco Foderà",
+                "image": "/connection.webp"
+            },
+            {
+                "startTime": "15:00",
+                "endTime": "18:00",
+                "name": "Drive Time",
+                "subtitle": "Con Lele Sarallo e Lory",
+                "image": "/drivetime.webp"
+            },
+            {
+                "startTime": "18:00",
+                "endTime": "21:00",
+                "name": "Cattivissimo",
+                "subtitle": "Con Marco Rollo e Andrea Candelaresi",
+                "image": "/cattivissimo.webp"
+            },
+            {
+                "startTime": "21:00",
+                "endTime": "22:00",
+                "name": "Effetto Sera",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/effettosera.webp"
+            },
+            {
+                "startTime": "22:00",
+                "endTime": "00:00",
+                "name": "Night Selection",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/nightselection.webp"
+            }
+        ]
+    },
+    {
+        "day": 4,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "05:00",
+                "name": "Night Selection",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/nightselection.webp"
+            },
+            {
+                "startTime": "05:00",
+                "endTime": "07:00",
+                "name": "Twilight",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/radioromatwilight.webp"
+            },
+            {
+                "startTime": "07:00",
+                "endTime": "10:00",
+                "name": "Breaking Bed",
+                "subtitle": "Con Rush",
+                "image": "/breakingbed.webp"
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "13:00",
+                "name": "Show Time",
+                "subtitle": "Con Paciullo",
+                "image": "/showtime.webp"
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "14:00",
+                "name": "Kiss & Go",
+                "subtitle": "Con Eleonora Pezzella",
+                "image": "/kissandgo.webp"
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "15:00",
+                "name": "Connection",
+                "subtitle": "Con Francesco Foderà",
+                "image": "/connection.webp"
+            },
+            {
+                "startTime": "15:00",
+                "endTime": "18:00",
+                "name": "Drive Time",
+                "subtitle": "Con Lele Sarallo e Lory",
+                "image": "/drivetime.webp"
+            },
+            {
+                "startTime": "18:00",
+                "endTime": "21:00",
+                "name": "Cattivissimo",
+                "subtitle": "Con Marco Rollo e Andrea Candelaresi",
+                "image": "/cattivissimo.webp"
+            },
+            {
+                "startTime": "21:00",
+                "endTime": "22:00",
+                "name": "Effetto Sera",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/effettosera.webp"
+            },
+            {
+                "startTime": "22:00",
+                "endTime": "00:00",
+                "name": "Night Selection",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/nightselection.webp"
+            }
+        ]
+    },
+    {
+        "day": 5,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "05:00",
+                "name": "Night Selection",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/nightselection.webp"
+            },
+            {
+                "startTime": "05:00",
+                "endTime": "07:00",
+                "name": "Twilight",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/radioromatwilight.webp"
+            },
+            {
+                "startTime": "07:00",
+                "endTime": "10:00",
+                "name": "Breaking Bed",
+                "subtitle": "Con Rush",
+                "image": "/breakingbed.webp"
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "13:00",
+                "name": "Show Time",
+                "subtitle": "Con Paciullo",
+                "image": "/showtime.webp"
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "14:00",
+                "name": "Kiss & Go",
+                "subtitle": "Con Eleonora Pezzella",
+                "image": "/kissandgo.webp"
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "15:00",
+                "name": "Connection",
+                "subtitle": "Con Francesco Foderà",
+                "image": "/connection.webp"
+            },
+            {
+                "startTime": "15:00",
+                "endTime": "18:00",
+                "name": "Drive Time",
+                "subtitle": "Con Lele Sarallo e Lory",
+                "image": "/drivetime.webp"
+            },
+            {
+                "startTime": "18:00",
+                "endTime": "21:00",
+                "name": "Cattivissimo",
+                "subtitle": "Con Marco Rollo e Andrea Candelaresi",
+                "image": "/cattivissimo.webp"
+            },
+            {
+                "startTime": "21:00",
+                "endTime": "22:00",
+                "name": "Effetto Sera",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/effettosera.webp"
+            },
+            {
+                "startTime": "22:00",
+                "endTime": "00:00",
+                "name": "Night Selection",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/nightselection.webp"
+            }
+        ]
+    },
+    {
+        "day": 6,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "05:00",
+                "name": "Night Selection",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/nightselection.webp"
+            },
+            {
+                "startTime": "05:00",
+                "endTime": "07:00",
+                "name": "Twilight",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/radioromatwilight.webp"
+            },
+            {
+                "startTime": "07:00",
+                "endTime": "10:00",
+                "name": "Wake Up",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/wakeup.webp"
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "13:00",
+                "name": "Live @ Hydromania",
+                "subtitle": "In diretta con Radio Roma",
+                "image": "/hydromania.webp"
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "15:00",
+                "name": "Live",
+                "subtitle": "In diretta con Radio Roma",
+                "image": "/wakeup.webp"
+            },
+            {
+                "startTime": "15:00",
+                "endTime": "18:00",
+                "name": "Roma Party",
+                "subtitle": "Con Henry Pass",
+                "image": "/romaparty.webp"
+            },
+            {
+                "startTime": "18:00",
+                "endTime": "21:00",
+                "name": "Non Stop Music",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/nonstopmusic.webp"
+            },
+            {
+                "startTime": "21:00",
+                "endTime": "22:00",
+                "name": "Effetto Sera",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/effettosera.webp"
+            },
+            {
+                "startTime": "22:00",
+                "endTime": "00:00",
+                "name": "Night Selection",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/nightselection.webp"
+            }
+        ]
+    },
+    {
+        "day": 7,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "05:00",
+                "name": "Night Selection",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/nightselection.webp"
+            },
+            {
+                "startTime": "05:00",
+                "endTime": "07:00",
+                "name": "Twilight",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/radioromatwilight.webp"
+            },
+            {
+                "startTime": "07:00",
+                "endTime": "10:00",
+                "name": "Wake Up",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/wakeup.webp"
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "13:00",
+                "name": "Live @ Hydromania",
+                "subtitle": "In diretta con Radio Roma",
+                "image": "/hydromania.webp"
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "15:00",
+                "name": "Live",
+                "subtitle": "In diretta con Radio Roma",
+                "image": "/wakeup.webp"
+            },
+            {
+                "startTime": "15:00",
+                "endTime": "18:00",
+                "name": "Roma Party",
+                "subtitle": "Con Henry Pass",
+                "image": "/romaparty.webp"
+            },
+            {
+                "startTime": "18:00",
+                "endTime": "21:00",
+                "name": "Non Stop Music",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/nonstopmusic.webp"
+            },
+            {
+                "startTime": "21:00",
+                "endTime": "22:00",
+                "name": "Effetto Sera",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/effettosera.webp"
+            },
+            {
+                "startTime": "22:00",
+                "endTime": "00:00",
+                "name": "Night Selection",
+                "description": "La selezione musicale di Radio Roma",
+                "image": "/nightselection.webp"
+            }
+        ]
+    }
+]

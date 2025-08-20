@@ -1,0 +1,242 @@
+[
+    {
+        "day": 1,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "07:00",
+                "name": "New Jerusalem",
+                "description": "Ritrasmissione di Radio Santec - Sophia TV",
+                "image": "/sophiatv.jpg"
+            },
+            {
+                "startTime": "07:00",
+                "endTime": "14:00",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "17:00",
+                "name": "Televendite di Marquise Jewellery",
+                "description": "Televendite di gioielli con Marquise Jewellery.",
+                "image": "/marquisejewellery.jpg"
+            },
+            {
+                "startTime": "17:00",
+                "endTime": "21:00",
+                "name": "Televendite di Gaia Collection",
+                "description": "Televendite di abbigliamento con Gaia Collection.",
+                "image": "/gaiacollection.webp"
+            },
+            {
+                "startTime": "21:00",
+                "endTime": "00:00",
+                "name": "Televendite di Arte Network Orler",
+                "description": "Televendite di arte con Arte Network Orler.",
+                "image": "/artenetworkorler.jpg"
+            }
+        ]
+    },
+    {
+        "day": 2,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "07:00",
+                "name": "New Jerusalem",
+                "description": "Ritrasmissione di Radio Santec - Sophia TV",
+                "image": "/sophiatv.jpg"
+            },
+            {
+                "startTime": "07:00",
+                "endTime": "14:00",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "17:00",
+                "name": "Televendite di Marquise Jewellery",
+                "description": "Televendite di gioielli con Marquise Jewellery.",
+                "image": "/marquisejewellery.jpg"
+            },
+            {
+                "startTime": "17:00",
+                "endTime": "21:00",
+                "name": "Televendite di Gaia Collection",
+                "description": "Televendite di abbigliamento con Gaia Collection.",
+                "image": "/gaiacollection.webp"
+            },
+            {
+                "startTime": "21:00",
+                "endTime": "00:00",
+                "name": "Televendite di Arte Network Orler",
+                "description": "Televendite di arte con Arte Network Orler.",
+                "image": "/artenetworkorler.jpg"
+            }
+        ]
+    },
+    {
+        "day": 3,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "07:00",
+                "name": "New Jerusalem",
+                "description": "Ritrasmissione di Radio Santec - Sophia TV",
+                "image": "/sophiatv.jpg"
+            },
+            {
+                "startTime": "07:00",
+                "endTime": "17:00",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            },
+            {
+                "startTime": "17:00",
+                "endTime": "21:00",
+                "name": "Televendite di Gaia Collection",
+                "description": "Televendite di abbigliamento con Gaia Collection.",
+                "image": "/gaiacollection.webp"
+            },
+            {
+                "startTime": "21:00",
+                "endTime": "00:00",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            }
+        ]
+    },
+    {
+        "day": 4,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "07:00",
+                "name": "New Jerusalem",
+                "description": "Ritrasmissione di Radio Santec - Sophia TV",
+                "image": "/sophiatv.jpg"
+            },
+            {
+                "startTime": "07:00",
+                "endTime": "17:00",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            },
+            {
+                "startTime": "17:00",
+                "endTime": "21:00",
+                "name": "Televendite di Gaia Collection",
+                "description": "Televendite di abbigliamento con Gaia Collection.",
+                "image": "/gaiacollection.webp"
+            },
+            {
+                "startTime": "21:00",
+                "endTime": "00:00",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            }
+        ]
+    },
+    {
+        "day": 5,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "07:00",
+                "name": "New Jerusalem",
+                "description": "Ritrasmissione di Radio Santec - Sophia TV",
+                "image": "/sophiatv.jpg"
+            },
+            {
+                "startTime": "07:00",
+                "endTime": "20:30",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            },
+            {
+                "startTime": "20:30",
+                "endTime": "00:00",
+                "name": "New Jerusalem",
+                "description": "Ritrasmissione di Radio Santec - Sophia TV",
+                "image": "/sophiatv.jpg"
+            }
+        ]
+    },
+    {
+        "day": 6,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "07:00",
+                "name": "New Jerusalem",
+                "description": "Ritrasmissione di Radio Santec - Sophia TV",
+                "image": "/sophiatv.jpg"
+            },
+            {
+                "startTime": "07:00",
+                "endTime": "14:00",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "20:00",
+                "name": "Televendite di Arte Network Orler",
+                "description": "Televendite di arte con Arte Network Orler.",
+                "image": "/artenetworkorler.jpg"
+            },
+            {
+                "startTime": "20:00",
+                "endTime": "00:00",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            }
+        ]
+    },
+    {
+        "day": 7,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "07:00",
+                "name": "New Jerusalem",
+                "description": "Ritrasmissione di Radio Santec - Sophia TV",
+                "image": "/sophiatv.jpg"
+            },
+            {
+                "startTime": "07:00",
+                "endTime": "08:00",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            },
+            {
+                "startTime": "08:00",
+                "endTime": "13:00",
+                "name": "Televendite di Arte Network Orler",
+                "description": "Televendite di arte con Arte Network Orler.",
+                "image": "/artenetworkorler.jpg"
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "17:00",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            },
+            {
+                "startTime": "17:00",
+                "endTime": "20:00",
+                "name": "Televendite di Arte Network Orler",
+                "description": "Televendite di arte con Arte Network Orler.",
+                "image": "/artenetworkorler.jpg"
+            },
+            {
+                "startTime": "20:00",
+                "endTime": "00:00",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            }
+        ]
+    }
+]

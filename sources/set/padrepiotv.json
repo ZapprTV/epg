@@ -1,0 +1,1591 @@
+[
+    {
+        "day": 1,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "07:05",
+                "name": "Repliche"
+            },
+            {
+                "startTime": "07:05",
+                "endTime": "07:25",
+                "name": "Lodi"
+            },
+            {
+                "startTime": "07:25",
+                "endTime": "07:30",
+                "name": "Angelus recitato da Padre Pio"
+            },
+            {
+                "startTime": "07:30",
+                "endTime": "08:15",
+                "name": "Santa Messa"
+            },
+            {
+                "startTime": "08:15",
+                "endTime": "08:20",
+                "name": "Anteprima Just Today",
+                "description": "Con “Just Today: Esattamente oggi ieri e domani”, dal lunedì al sabato, Padre Pio Tv, affronta temi di cultura, informazione, sociale e chiesa. Con uno sguardo particolare alla vita e alla spiritualità di San Pio da Pietrelcina",
+                "image": "/justtoday.jpg"
+            },
+            {
+                "startTime": "08:20",
+                "endTime": "08:23",
+                "name": "Il buongiorno di Padre Pio"
+            },
+            {
+                "startTime": "08:23",
+                "endTime": "08:25",
+                "name": "Inmeteo"
+            },
+            {
+                "startTime": "08:25",
+                "endTime": "08:30",
+                "name": "Spazio Informazione"
+            },
+            {
+                "startTime": "08:30",
+                "endTime": "10:00",
+                "name": "Just Today: Esattamente oggi, ieri e domani",
+                "description": "Con “Just Today: Esattamente oggi ieri e domani”, dal lunedì al sabato, Padre Pio Tv, affronta temi di cultura, informazione, sociale e chiesa. Con uno sguardo particolare alla vita e alla spiritualità di San Pio da Pietrelcina",
+                "image": "/justtoday.jpg"
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "10:30",
+                "name": "Il Rosario di Padre Pio"
+            },
+            {
+                "startTime": "10:30",
+                "endTime": "11:00",
+                "name": "Verso gli Altari",
+                "subtitle": "A cura di Nicola Morcavallo",
+                "image": "/versoglialtari.jpg"
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "11:30",
+                "name": "Il Coraggio e la Speranza di Ogni Giorno",
+                "description": "Dopo l’esperienza spin-off dell’estate 2022 in occasione del 30° anniversario delle Stragi di Capaci e di via D’Amelio e l’edizione del 2023, ritorna su PadrePioTV “Il Coraggio di Ogni Giorno” che aggiunge, in occasione del Giubileo 2025 la parola “speranza” nel titolo.\nIl programma, condotto da Felice Piemontese, racconta le storie di chi quotidianamente semplicemente svolge il suo dovere nel campo della scuola, dell’università, della fede, dello sport, della giustizia o della sanità.\nSi intende così esplorare l’importanza che anche piccoli gesti di vita quotidiana hanno per migliorare ciò che non ci piace perchè, per dirla come Giovanni Falcone “Perché una società vada bene, si muova nel progresso, nell’esaltazione dei valori della famiglia, dello spirito, del bene, dell’amicizia, perché prosperi senza contrasti tra i vari consociati, per avviarsi serena nel cammino verso un domani migliore, basta che ognuno faccia il proprio dovere”, semplicemente questo.\nAppuntamento su PadrePioTV ogni lunedì alle ore 11:00 ed in replica alle ore 16:55.",
+                "image": "/ilcoraggiodiognigiorno.png"
+            },
+            {
+                "startTime": "11:30",
+                "endTime": "12:20",
+                "name": "Santa Messa"
+            },
+            {
+                "startTime": "12:20",
+                "endTime": "12:25",
+                "name": "Angelus recitato da Padre Pio"
+            },
+            {
+                "startTime": "12:25",
+                "endTime": "12:45",
+                "name": "1 minuto con Padre Pio",
+                "subtitle": "A cura di Francesco Bosco",
+                "description": "Ogni giorno Francesco Bosco racconta la storia di Padre Pio attraverso fatti e aneddoti.",
+                "image": "/unminutoconpadrepio.jpg"
+            },
+            {
+                "startTime": "12:45",
+                "endTime": "12:55",
+                "name": "Inmeteo"
+            },
+            {
+                "startTime": "12:55",
+                "endTime": "13:00",
+                "name": "Dritto al Cuore",
+                "subtitle": "A cura di Don Francesco Armenti",
+                "description": "Parola, fatti, testimoni e scritti che nutrono l’anima e allargano il cuore",
+                "image": "/drittoalcuore.png"
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "13:45",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            },
+            {
+                "startTime": "13:45",
+                "endTime": "14:15",
+                "name": "Il Rosario di Padre Pio"
+            },
+            {
+                "startTime": "14:15",
+                "endTime": "15:00",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            },
+            {
+                "startTime": "15:00",
+                "endTime": "15:45",
+                "name": "Coroncina alla Divina Misericordia"
+            },
+            {
+                "startTime": "15:45",
+                "endTime": "16:30",
+                "name": "Just Today: Esattamente oggi, ieri e domani (replica)",
+                "description": "Con “Just Today: Esattamente oggi ieri e domani”, dal lunedì al sabato, Padre Pio Tv, affronta temi di cultura, informazione, sociale e chiesa. Con uno sguardo particolare alla vita e alla spiritualità di San Pio da Pietrelcina",
+                "image": "/justtoday.jpg"
+            },
+            {
+                "startTime": "16:30",
+                "endTime": "17:00",
+                "name": "Verso gli Altari (replica)",
+                "subtitle": "A cura di Nicola Morcavallo",
+                "image": "/versoglialtari.jpg"
+            },
+            {
+                "startTime": "17:00",
+                "endTime": "17:30",
+                "name": "Il Coraggio e la Speranza di Ogni Giorno (replica)",
+                "description": "Dopo l’esperienza spin-off dell’estate 2022 in occasione del 30° anniversario delle Stragi di Capaci e di via D’Amelio e l’edizione del 2023, ritorna su PadrePioTV “Il Coraggio di Ogni Giorno” che aggiunge, in occasione del Giubileo 2025 la parola “speranza” nel titolo.\nIl programma, condotto da Felice Piemontese, racconta le storie di chi quotidianamente semplicemente svolge il suo dovere nel campo della scuola, dell’università, della fede, dello sport, della giustizia o della sanità.\nSi intende così esplorare l’importanza che anche piccoli gesti di vita quotidiana hanno per migliorare ciò che non ci piace perchè, per dirla come Giovanni Falcone “Perché una società vada bene, si muova nel progresso, nell’esaltazione dei valori della famiglia, dello spirito, del bene, dell’amicizia, perché prosperi senza contrasti tra i vari consociati, per avviarsi serena nel cammino verso un domani migliore, basta che ognuno faccia il proprio dovere”, semplicemente questo.\nAppuntamento su PadrePioTV ogni lunedì alle ore 11:00 ed in replica alle ore 16:55.",
+                "image": "/ilcoraggiodiognigiorno.png"
+            },
+            {
+                "startTime": "17:30",
+                "endTime": "18:00",
+                "name": "Santo Rosario"
+            },
+            {
+                "startTime": "18:00",
+                "endTime": "19:00",
+                "name": "Santa Messa"
+            },
+            {
+                "startTime": "19:00",
+                "endTime": "19:15",
+                "name": "Vespri"
+            },
+            {
+                "startTime": "19:15",
+                "endTime": "19:30",
+                "name": "Lampada per i miei Passi"
+            },
+            {
+                "startTime": "19:30",
+                "endTime": "19:40",
+                "name": "Głos Ojca Pio, przesłanie do czciceli świętego Ojca Pio"
+            },
+            {
+                "startTime": "19:40",
+                "endTime": "20:00",
+                "name": "Dritto al Cuore",
+                "subtitle": "A cura di Don Francesco Armenti",
+                "description": "Parola, fatti, testimoni e scritti che nutrono l’anima e allargano il cuore",
+                "image": "/drittoalcuore.png"
+            },
+            {
+                "startTime": "20:00",
+                "endTime": "20:30",
+                "name": "Preghiera della Comunità di Sant'Egidio"
+            },
+            {
+                "startTime": "20:30",
+                "endTime": "20:35",
+                "name": "1 minuto con Padre Pio",
+                "subtitle": "A cura di Francesco Bosco",
+                "description": "Ogni giorno Francesco Bosco racconta la storia di Padre Pio attraverso fatti e aneddoti.",
+                "image": "/unminutoconpadrepio.jpg"
+            },
+            {
+                "startTime": "20:35",
+                "endTime": "20:45",
+                "name": "Inmeteo"
+            },
+            {
+                "startTime": "20:45",
+                "endTime": "21:25",
+                "name": "Santo Rosario"
+            },
+            {
+                "startTime": "21:25",
+                "endTime": "21:40",
+                "name": "Compieta"
+            },
+            {
+                "startTime": "21:40",
+                "endTime": "21:42",
+                "name": "Benedizione di Padre Pio"
+            },
+            {
+                "startTime": "21:42",
+                "endTime": "00:00",
+                "name": "Repliche"
+            }
+        ]
+    },
+    {
+        "day": 2,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "07:05",
+                "name": "Repliche"
+            },
+            {
+                "startTime": "07:05",
+                "endTime": "07:25",
+                "name": "Lodi"
+            },
+            {
+                "startTime": "07:25",
+                "endTime": "07:30",
+                "name": "Angelus recitato da Padre Pio"
+            },
+            {
+                "startTime": "07:30",
+                "endTime": "08:15",
+                "name": "Santa Messa"
+            },
+            {
+                "startTime": "08:15",
+                "endTime": "08:20",
+                "name": "Anteprima Just Today",
+                "description": "Con “Just Today: Esattamente oggi ieri e domani”, dal lunedì al sabato, Padre Pio Tv, affronta temi di cultura, informazione, sociale e chiesa. Con uno sguardo particolare alla vita e alla spiritualità di San Pio da Pietrelcina",
+                "image": "/justtoday.jpg"
+            },
+            {
+                "startTime": "08:20",
+                "endTime": "08:23",
+                "name": "Il buongiorno di Padre Pio"
+            },
+            {
+                "startTime": "08:23",
+                "endTime": "08:25",
+                "name": "Inmeteo"
+            },
+            {
+                "startTime": "08:25",
+                "endTime": "08:30",
+                "name": "Spazio Informazione"
+            },
+            {
+                "startTime": "08:30",
+                "endTime": "10:00",
+                "name": "Just Today: Esattamente oggi, ieri e domani",
+                "description": "Con “Just Today: Esattamente oggi ieri e domani”, dal lunedì al sabato, Padre Pio Tv, affronta temi di cultura, informazione, sociale e chiesa. Con uno sguardo particolare alla vita e alla spiritualità di San Pio da Pietrelcina",
+                "image": "/justtoday.jpg"
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "10:30",
+                "name": "Il Rosario di Padre Pio"
+            },
+            {
+                "startTime": "10:30",
+                "endTime": "11:30",
+                "name": "La vera storia di Padre Pio",
+                "description": "Un programma di Francesco Bosco e Simona Marmorino che vuole metter in luce la vita e le opere del santo frate cappuccino raccontando la verità su Padre Pio da Pietrelcina.",
+                "image": "/laverastoriadipadrepio.png"
+            },
+            {
+                "startTime": "11:30",
+                "endTime": "12:20",
+                "name": "Santa Messa"
+            },
+            {
+                "startTime": "12:20",
+                "endTime": "12:25",
+                "name": "Angelus recitato da Padre Pio"
+            },
+            {
+                "startTime": "12:25",
+                "endTime": "12:45",
+                "name": "1 minuto con Padre Pio",
+                "subtitle": "A cura di Francesco Bosco",
+                "description": "Ogni giorno Francesco Bosco racconta la storia di Padre Pio attraverso fatti e aneddoti.",
+                "image": "/unminutoconpadrepio.jpg"
+            },
+            {
+                "startTime": "12:45",
+                "endTime": "12:55",
+                "name": "Inmeteo"
+            },
+            {
+                "startTime": "12:55",
+                "endTime": "13:00",
+                "name": "Dritto al Cuore",
+                "subtitle": "A cura di Don Francesco Armenti",
+                "description": "Parola, fatti, testimoni e scritti che nutrono l’anima e allargano il cuore",
+                "image": "/drittoalcuore.png"
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "13:45",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            },
+            {
+                "startTime": "13:45",
+                "endTime": "14:15",
+                "name": "Il Rosario di Padre Pio"
+            },
+            {
+                "startTime": "14:15",
+                "endTime": "15:00",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            },
+            {
+                "startTime": "15:00",
+                "endTime": "15:45",
+                "name": "Coroncina alla Divina Misericordia"
+            },
+            {
+                "startTime": "15:45",
+                "endTime": "16:30",
+                "name": "Just Today: Esattamente oggi, ieri e domani (replica)",
+                "description": "Con “Just Today: Esattamente oggi ieri e domani”, dal lunedì al sabato, Padre Pio Tv, affronta temi di cultura, informazione, sociale e chiesa. Con uno sguardo particolare alla vita e alla spiritualità di San Pio da Pietrelcina",
+                "image": "/justtoday.jpg"
+            },
+            {
+                "startTime": "16:30",
+                "endTime": "17:30",
+                "name": "La vera storia di Padre Pio (replica)",
+                "description": "Un programma di Francesco Bosco e Simona Marmorino che vuole metter in luce la vita e le opere del santo frate cappuccino raccontando la verità su Padre Pio da Pietrelcina.",
+                "image": "/laverastoriadipadrepio.png"
+            },
+            {
+                "startTime": "17:30",
+                "endTime": "18:00",
+                "name": "Santo Rosario"
+            },
+            {
+                "startTime": "18:00",
+                "endTime": "19:00",
+                "name": "Santa Messa"
+            },
+            {
+                "startTime": "19:00",
+                "endTime": "19:15",
+                "name": "Vespri"
+            },
+            {
+                "startTime": "19:15",
+                "endTime": "19:30",
+                "name": "Lampada per i miei Passi"
+            },
+            {
+                "startTime": "19:30",
+                "endTime": "19:40",
+                "name": "La Voce di Padre Pio in spagnolo"
+            },
+            {
+                "startTime": "19:40",
+                "endTime": "20:00",
+                "name": "Dritto al Cuore",
+                "subtitle": "A cura di Don Francesco Armenti",
+                "description": "Parola, fatti, testimoni e scritti che nutrono l’anima e allargano il cuore",
+                "image": "/drittoalcuore.png"
+            },
+            {
+                "startTime": "20:00",
+                "endTime": "20:30",
+                "name": "Preghiera della Comunità di Sant'Egidio"
+            },
+            {
+                "startTime": "20:30",
+                "endTime": "20:35",
+                "name": "1 minuto con Padre Pio",
+                "subtitle": "A cura di Francesco Bosco",
+                "description": "Ogni giorno Francesco Bosco racconta la storia di Padre Pio attraverso fatti e aneddoti.",
+                "image": "/unminutoconpadrepio.jpg"
+            },
+            {
+                "startTime": "20:35",
+                "endTime": "20:45",
+                "name": "Inmeteo"
+            },
+            {
+                "startTime": "20:45",
+                "endTime": "21:25",
+                "name": "Santo Rosario"
+            },
+            {
+                "startTime": "21:25",
+                "endTime": "21:40",
+                "name": "Compieta"
+            },
+            {
+                "startTime": "21:40",
+                "endTime": "21:50",
+                "name": "Benedizione di Padre Pio"
+            },
+            {
+                "startTime": "21:50",
+                "endTime": "00:00",
+                "name": "Repliche"
+            }
+        ]
+    },
+    {
+        "day": 3,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "07:05",
+                "name": "Repliche"
+            },
+            {
+                "startTime": "07:05",
+                "endTime": "07:25",
+                "name": "Lodi"
+            },
+            {
+                "startTime": "07:25",
+                "endTime": "07:30",
+                "name": "Angelus recitato da Padre Pio"
+            },
+            {
+                "startTime": "07:30",
+                "endTime": "08:15",
+                "name": "Santa Messa"
+            },
+            {
+                "startTime": "08:15",
+                "endTime": "08:20",
+                "name": "Anteprima Just Today",
+                "description": "Con “Just Today: Esattamente oggi ieri e domani”, dal lunedì al sabato, Padre Pio Tv, affronta temi di cultura, informazione, sociale e chiesa. Con uno sguardo particolare alla vita e alla spiritualità di San Pio da Pietrelcina",
+                "image": "/justtoday.jpg"
+            },
+            {
+                "startTime": "08:20",
+                "endTime": "08:23",
+                "name": "Il buongiorno di Padre Pio"
+            },
+            {
+                "startTime": "08:23",
+                "endTime": "08:25",
+                "name": "Inmeteo"
+            },
+            {
+                "startTime": "08:25",
+                "endTime": "08:30",
+                "name": "Spazio Informazione"
+            },
+            {
+                "startTime": "08:30",
+                "endTime": "09:45",
+                "name": "Just Today: Esattamente oggi, ieri e domani",
+                "description": "Con “Just Today: Esattamente oggi ieri e domani”, dal lunedì al sabato, Padre Pio Tv, affronta temi di cultura, informazione, sociale e chiesa. Con uno sguardo particolare alla vita e alla spiritualità di San Pio da Pietrelcina",
+                "image": "/justtoday.jpg"
+            },
+            {
+                "startTime": "09:45",
+                "endTime": "11:00",
+                "name": "Udienza del Papa"
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "11:30",
+                "name": "Sulle Orme della Speranza",
+                "subtitle": "A cura di Giulia Morcavallo",
+                "description": "Sulle Orme della Speranza – itinerari Giubilari è un pellegrinaggio virtuale nei santuari giubilari, che ci consentirà di conoscere alcuni dei tanti santuari, a cui Papa Francesco ha concesso l’indulgenza, visitandoli come pellegrini di speranza. Ogni Mercoledì alle ore 11. Un programma di Giulia Morcavallo",
+                "image": "/sulleormedellasperanza.png"
+            },
+            {
+                "startTime": "11:30",
+                "endTime": "12:20",
+                "name": "Santa Messa"
+            },
+            {
+                "startTime": "12:20",
+                "endTime": "12:25",
+                "name": "Angelus recitato da Padre Pio"
+            },
+            {
+                "startTime": "12:25",
+                "endTime": "12:45",
+                "name": "1 minuto con Padre Pio",
+                "subtitle": "A cura di Francesco Bosco",
+                "description": "Ogni giorno Francesco Bosco racconta la storia di Padre Pio attraverso fatti e aneddoti.",
+                "image": "/unminutoconpadrepio.jpg"
+            },
+            {
+                "startTime": "12:45",
+                "endTime": "12:55",
+                "name": "Inmeteo"
+            },
+            {
+                "startTime": "12:55",
+                "endTime": "13:00",
+                "name": "Dritto al Cuore",
+                "subtitle": "A cura di Don Francesco Armenti",
+                "description": "Parola, fatti, testimoni e scritti che nutrono l’anima e allargano il cuore",
+                "image": "/drittoalcuore.png"
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "13:45",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            },
+            {
+                "startTime": "13:45",
+                "endTime": "14:15",
+                "name": "Il Rosario di Padre Pio"
+            },
+            {
+                "startTime": "14:15",
+                "endTime": "15:00",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            },
+            {
+                "startTime": "15:00",
+                "endTime": "15:45",
+                "name": "Coroncina alla Divina Misericordia"
+            },
+            {
+                "startTime": "15:45",
+                "endTime": "17:00",
+                "name": "Udienza del Papa (replica)"
+            },
+            {
+                "startTime": "17:00",
+                "endTime": "17:30",
+                "name": "Sulle Orme della Speranza (replica)",
+                "subtitle": "A cura di Giulia Morcavallo",
+                "description": "Sulle Orme della Speranza – itinerari Giubilari è un pellegrinaggio virtuale nei santuari giubilari, che ci consentirà di conoscere alcuni dei tanti santuari, a cui Papa Francesco ha concesso l’indulgenza, visitandoli come pellegrini di speranza. Ogni Mercoledì alle ore 11. Un programma di Giulia Morcavallo",
+                "image": "/sulleormedellasperanza.png"
+            },
+            {
+                "startTime": "17:30",
+                "endTime": "18:00",
+                "name": "Santo Rosario"
+            },
+            {
+                "startTime": "18:00",
+                "endTime": "19:00",
+                "name": "Santa Messa"
+            },
+            {
+                "startTime": "19:00",
+                "endTime": "19:15",
+                "name": "Vespri"
+            },
+            {
+                "startTime": "19:15",
+                "endTime": "19:30",
+                "name": "Lampada per i miei Passi"
+            },
+            {
+                "startTime": "19:30",
+                "endTime": "19:40",
+                "name": "La Voce di Padre Pio in francese"
+            },
+            {
+                "startTime": "19:40",
+                "endTime": "20:00",
+                "name": "Dritto al Cuore",
+                "subtitle": "A cura di Don Francesco Armenti",
+                "description": "Parola, fatti, testimoni e scritti che nutrono l’anima e allargano il cuore",
+                "image": "/drittoalcuore.png"
+            },
+            {
+                "startTime": "20:00",
+                "endTime": "20:30",
+                "name": "Preghiera della Comunità di Sant'Egidio"
+            },
+            {
+                "startTime": "20:30",
+                "endTime": "20:35",
+                "name": "1 minuto con Padre Pio",
+                "subtitle": "A cura di Francesco Bosco",
+                "description": "Ogni giorno Francesco Bosco racconta la storia di Padre Pio attraverso fatti e aneddoti.",
+                "image": "/unminutoconpadrepio.jpg"
+            },
+            {
+                "startTime": "20:35",
+                "endTime": "20:45",
+                "name": "Inmeteo"
+            },
+            {
+                "startTime": "20:45",
+                "endTime": "21:25",
+                "name": "Santo Rosario"
+            },
+            {
+                "startTime": "21:25",
+                "endTime": "21:40",
+                "name": "Compieta"
+            },
+            {
+                "startTime": "21:40",
+                "endTime": "21:42",
+                "name": "Benedizione di Padre Pio"
+            },
+            {
+                "startTime": "21:42",
+                "endTime": "00:00",
+                "name": "Repliche"
+            }
+        ]
+    },
+    {
+        "day": 4,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "07:05",
+                "name": "Repliche"
+            },
+            {
+                "startTime": "07:05",
+                "endTime": "07:25",
+                "name": "Lodi"
+            },
+            {
+                "startTime": "07:25",
+                "endTime": "07:30",
+                "name": "Angelus recitato da Padre Pio"
+            },
+            {
+                "startTime": "07:30",
+                "endTime": "08:15",
+                "name": "Santa Messa"
+            },
+            {
+                "startTime": "08:15",
+                "endTime": "08:20",
+                "name": "Anteprima Just Today",
+                "description": "Con “Just Today: Esattamente oggi ieri e domani”, dal lunedì al sabato, Padre Pio Tv, affronta temi di cultura, informazione, sociale e chiesa. Con uno sguardo particolare alla vita e alla spiritualità di San Pio da Pietrelcina",
+                "image": "/justtoday.jpg"
+            },
+            {
+                "startTime": "08:20",
+                "endTime": "08:23",
+                "name": "Il buongiorno di Padre Pio"
+            },
+            {
+                "startTime": "08:23",
+                "endTime": "08:25",
+                "name": "Inmeteo"
+            },
+            {
+                "startTime": "08:25",
+                "endTime": "08:30",
+                "name": "Spazio Informazione"
+            },
+            {
+                "startTime": "08:30",
+                "endTime": "10:00",
+                "name": "Just Today: Esattamente oggi, ieri e domani",
+                "description": "Con “Just Today: Esattamente oggi ieri e domani”, dal lunedì al sabato, Padre Pio Tv, affronta temi di cultura, informazione, sociale e chiesa. Con uno sguardo particolare alla vita e alla spiritualità di San Pio da Pietrelcina",
+                "image": "/justtoday.jpg"
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "10:30",
+                "name": "Il Rosario di Padre Pio"
+            },
+            {
+                "startTime": "10:30",
+                "endTime": "11:00",
+                "name": "Viandanti per le Strade del Vangelo",
+                "subtitle": "A cura di Leonardo Fania",
+                "description": "Quello che accade nelle Missioni di Padre Pio in Ciad-Centrafrica e in tutte le missioni del mondo",
+                "image": "/viandantisullestradedelvangelo.jpg"
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "11:30",
+                "name": "La Regola della Sostenibilità",
+                "subtitle": "A cura di Antonio Augello",
+                "description": "Una sostenibilità cristiana “da Francesco a Francesco” ispirata dall’esempio del poverello d’Assisi e alimentata dagli insegnamenti di Papa Francesco e dalla sua visione sull’economia.​",
+                "image": "/laregoladellasostenibilità.png"
+            },
+            {
+                "startTime": "11:30",
+                "endTime": "12:20",
+                "name": "Santa Messa"
+            },
+            {
+                "startTime": "12:20",
+                "endTime": "12:25",
+                "name": "Angelus recitato da Padre Pio"
+            },
+            {
+                "startTime": "12:25",
+                "endTime": "12:45",
+                "name": "1 minuto con Padre Pio",
+                "subtitle": "A cura di Francesco Bosco",
+                "description": "Ogni giorno Francesco Bosco racconta la storia di Padre Pio attraverso fatti e aneddoti.",
+                "image": "/unminutoconpadrepio.jpg"
+            },
+            {
+                "startTime": "12:45",
+                "endTime": "12:55",
+                "name": "Inmeteo"
+            },
+            {
+                "startTime": "12:55",
+                "endTime": "13:00",
+                "name": "Dritto al Cuore",
+                "subtitle": "A cura di Don Francesco Armenti",
+                "description": "Parola, fatti, testimoni e scritti che nutrono l’anima e allargano il cuore",
+                "image": "/drittoalcuore.png"
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "13:45",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            },
+            {
+                "startTime": "13:45",
+                "endTime": "14:15",
+                "name": "Il Rosario di Padre Pio"
+            },
+            {
+                "startTime": "14:15",
+                "endTime": "15:00",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            },
+            {
+                "startTime": "15:00",
+                "endTime": "15:45",
+                "name": "Coroncina alla Divina Misericordia"
+            },
+            {
+                "startTime": "15:45",
+                "endTime": "16:30",
+                "name": "Just Today: Esattamente oggi, ieri e domani (replica)",
+                "description": "Con “Just Today: Esattamente oggi ieri e domani”, dal lunedì al sabato, Padre Pio Tv, affronta temi di cultura, informazione, sociale e chiesa. Con uno sguardo particolare alla vita e alla spiritualità di San Pio da Pietrelcina",
+                "image": "/justtoday.jpg"
+            },
+            {
+                "startTime": "16:30",
+                "endTime": "17:00",
+                "name": "Viandanti per le Strade del Vangelo",
+                "subtitle": "A cura di Leonardo Fania",
+                "description": "Quello che accade nelle Missioni di Padre Pio in Ciad-Centrafrica e in tutte le missioni del mondo",
+                "image": "/viandantisullestradedelvangelo.jpg"
+            },
+            {
+                "startTime": "17:00",
+                "endTime": "17:30",
+                "name": "La Regola della Sostenibilità",
+                "subtitle": "A cura di Antonio Augello",
+                "description": "Una sostenibilità cristiana “da Francesco a Francesco” ispirata dall’esempio del poverello d’Assisi e alimentata dagli insegnamenti di Papa Francesco e dalla sua visione sull’economia.​",
+                "image": "/laregoladellasostenibilità.png"
+            },
+            {
+                "startTime": "17:30",
+                "endTime": "18:00",
+                "name": "Santo Rosario"
+            },
+            {
+                "startTime": "18:00",
+                "endTime": "19:00",
+                "name": "Santa Messa"
+            },
+            {
+                "startTime": "19:00",
+                "endTime": "19:15",
+                "name": "Vespri"
+            },
+            {
+                "startTime": "19:15",
+                "endTime": "19:30",
+                "name": "Lampada per i miei Passi"
+            },
+            {
+                "startTime": "19:30",
+                "endTime": "19:40",
+                "name": "La Voce di Padre Pio in tedesco"
+            },
+            {
+                "startTime": "19:40",
+                "endTime": "20:00",
+                "name": "Dritto al Cuore",
+                "subtitle": "A cura di Don Francesco Armenti",
+                "description": "Parola, fatti, testimoni e scritti che nutrono l’anima e allargano il cuore",
+                "image": "/drittoalcuore.png"
+            },
+            {
+                "startTime": "20:00",
+                "endTime": "20:30",
+                "name": "Preghiera della Comunità di Sant'Egidio"
+            },
+            {
+                "startTime": "20:30",
+                "endTime": "20:35",
+                "name": "1 minuto con Padre Pio",
+                "subtitle": "A cura di Francesco Bosco",
+                "description": "Ogni giorno Francesco Bosco racconta la storia di Padre Pio attraverso fatti e aneddoti.",
+                "image": "/unminutoconpadrepio.jpg"
+            },
+            {
+                "startTime": "20:35",
+                "endTime": "20:45",
+                "name": "Inmeteo"
+            },
+            {
+                "startTime": "20:45",
+                "endTime": "21:25",
+                "name": "Santo Rosario"
+            },
+            {
+                "startTime": "21:25",
+                "endTime": "21:40",
+                "name": "Compieta"
+            },
+            {
+                "startTime": "21:40",
+                "endTime": "21:42",
+                "name": "Benedizione di Padre Pio"
+            },
+            {
+                "startTime": "21:42",
+                "endTime": "22:30",
+                "name": "12 Porte Bo"
+            },
+            {
+                "startTime": "22:30",
+                "endTime": "00:00",
+                "name": "Repliche"
+            }
+        ]
+    },
+    {
+        "day": 5,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "07:05",
+                "name": "Repliche"
+            },
+            {
+                "startTime": "07:05",
+                "endTime": "07:25",
+                "name": "Lodi"
+            },
+            {
+                "startTime": "07:25",
+                "endTime": "07:30",
+                "name": "Angelus recitato da Padre Pio"
+            },
+            {
+                "startTime": "07:30",
+                "endTime": "08:15",
+                "name": "Santa Messa"
+            },
+            {
+                "startTime": "08:15",
+                "endTime": "08:20",
+                "name": "Anteprima Just Today",
+                "description": "Con “Just Today: Esattamente oggi ieri e domani”, dal lunedì al sabato, Padre Pio Tv, affronta temi di cultura, informazione, sociale e chiesa. Con uno sguardo particolare alla vita e alla spiritualità di San Pio da Pietrelcina",
+                "image": "/justtoday.jpg"
+            },
+            {
+                "startTime": "08:20",
+                "endTime": "08:23",
+                "name": "Il buongiorno di Padre Pio"
+            },
+            {
+                "startTime": "08:23",
+                "endTime": "08:25",
+                "name": "Inmeteo"
+            },
+            {
+                "startTime": "08:25",
+                "endTime": "08:30",
+                "name": "Spazio Informazione"
+            },
+            {
+                "startTime": "08:30",
+                "endTime": "10:00",
+                "name": "Just Today: Esattamente oggi, ieri e domani",
+                "description": "Con “Just Today: Esattamente oggi ieri e domani”, dal lunedì al sabato, Padre Pio Tv, affronta temi di cultura, informazione, sociale e chiesa. Con uno sguardo particolare alla vita e alla spiritualità di San Pio da Pietrelcina",
+                "image": "/justtoday.jpg"
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "10:30",
+                "name": "Il Rosario di Padre Pio"
+            },
+            {
+                "startTime": "10:30",
+                "endTime": "10:50",
+                "name": "Teleobiettivo",
+                "subtitle": "A cura di Stefano Campanella",
+                "description": "Teleobiettivo, un programma settimanale per cogliere i dettagli degli eventi di attualità, messi a fuoco da esperti e giornalisti di settore.",
+                "image": "/teleobiettivo.png"
+            },
+            {
+                "startTime": "10:50",
+                "endTime": "11:30",
+                "name": "L'Agenda del Santuario",
+                "subtitle": "A cura di Paola Russo",
+                "description": "Ogni settimana, in collaborazione con l’Ufficio Accoglienza Pellegrini, gli eventi, gli appuntamenti e le iniziative promosse nel Santuario di San Pio da Pietrelcina dai Frati Minori Cappuccini.",
+                "image": "/lagendadelsantuario.png"
+            },
+            {
+                "startTime": "11:30",
+                "endTime": "12:20",
+                "name": "Santa Messa"
+            },
+            {
+                "startTime": "12:20",
+                "endTime": "12:25",
+                "name": "Angelus recitato da Padre Pio"
+            },
+            {
+                "startTime": "12:25",
+                "endTime": "12:45",
+                "name": "1 minuto con Padre Pio",
+                "subtitle": "A cura di Francesco Bosco",
+                "description": "Ogni giorno Francesco Bosco racconta la storia di Padre Pio attraverso fatti e aneddoti.",
+                "image": "/unminutoconpadrepio.jpg"
+            },
+            {
+                "startTime": "12:45",
+                "endTime": "12:55",
+                "name": "Inmeteo"
+            },
+            {
+                "startTime": "12:55",
+                "endTime": "13:00",
+                "name": "Dritto al Cuore",
+                "subtitle": "A cura di Don Francesco Armenti",
+                "description": "Parola, fatti, testimoni e scritti che nutrono l’anima e allargano il cuore",
+                "image": "/drittoalcuore.png"
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "13:45",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            },
+            {
+                "startTime": "13:45",
+                "endTime": "14:15",
+                "name": "Il Rosario di Padre Pio"
+            },
+            {
+                "startTime": "14:15",
+                "endTime": "15:00",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            },
+            {
+                "startTime": "15:00",
+                "endTime": "15:45",
+                "name": "Coroncina alla Divina Misericordia"
+            },
+            {
+                "startTime": "15:45",
+                "endTime": "16:30",
+                "name": "Just Today: Esattamente oggi, ieri e domani (replica)",
+                "description": "Con “Just Today: Esattamente oggi ieri e domani”, dal lunedì al sabato, Padre Pio Tv, affronta temi di cultura, informazione, sociale e chiesa. Con uno sguardo particolare alla vita e alla spiritualità di San Pio da Pietrelcina",
+                "image": "/justtoday.jpg"
+            },
+            {
+                "startTime": "16:30",
+                "endTime": "16:50",
+                "name": "Teleobiettivo (replica)",
+                "subtitle": "A cura di Stefano Campanella",
+                "description": "Teleobiettivo, un programma settimanale per cogliere i dettagli degli eventi di attualità, messi a fuoco da esperti e giornalisti di settore.",
+                "image": "/teleobiettivo.png"
+            },
+            {
+                "startTime": "16:50",
+                "endTime": "17:30",
+                "name": "L'Agenda del Santuario (replica)",
+                "subtitle": "A cura di Paola Russo",
+                "description": "Ogni settimana, in collaborazione con l’Ufficio Accoglienza Pellegrini, gli eventi, gli appuntamenti e le iniziative promosse nel Santuario di San Pio da Pietrelcina dai Frati Minori Cappuccini.",
+                "image": "/lagendadelsantuario.png"
+            },
+            {
+                "startTime": "17:30",
+                "endTime": "18:00",
+                "name": "Santo Rosario"
+            },
+            {
+                "startTime": "18:00",
+                "endTime": "19:00",
+                "name": "Santa Messa"
+            },
+            {
+                "startTime": "19:00",
+                "endTime": "19:15",
+                "name": "Vespri"
+            },
+            {
+                "startTime": "19:15",
+                "endTime": "19:30",
+                "name": "Lampada per i miei Passi"
+            },
+            {
+                "startTime": "19:30",
+                "endTime": "19:40",
+                "name": "La Voce di Padre Pio in arabo"
+            },
+            {
+                "startTime": "19:40",
+                "endTime": "20:00",
+                "name": "Dritto al Cuore",
+                "subtitle": "A cura di Don Francesco Armenti",
+                "description": "Parola, fatti, testimoni e scritti che nutrono l’anima e allargano il cuore",
+                "image": "/drittoalcuore.png"
+            },
+            {
+                "startTime": "20:00",
+                "endTime": "20:30",
+                "name": "Preghiera della Comunità di Sant'Egidio"
+            },
+            {
+                "startTime": "20:30",
+                "endTime": "20:35",
+                "name": "1 minuto con Padre Pio",
+                "subtitle": "A cura di Francesco Bosco",
+                "description": "Ogni giorno Francesco Bosco racconta la storia di Padre Pio attraverso fatti e aneddoti.",
+                "image": "/unminutoconpadrepio.jpg"
+            },
+            {
+                "startTime": "20:35",
+                "endTime": "20:45",
+                "name": "Inmeteo"
+            },
+            {
+                "startTime": "20:45",
+                "endTime": "21:25",
+                "name": "Preghiera Sotto la Croce",
+                "description": "Ogni venerdì nel Santuario di Padre Pio a San Giovanni Rotondo (tranne il periodo di Quaresima) si celebra la Preghiera sotto la Croce",
+                "image": "/preghierasottolacroce.jpg"
+            },
+            {
+                "startTime": "21:25",
+                "endTime": "21:40",
+                "name": "Compieta"
+            },
+            {
+                "startTime": "21:40",
+                "endTime": "21:42",
+                "name": "Benedizione di Padre Pio"
+            },
+            {
+                "startTime": "21:42",
+                "endTime": "00:00",
+                "name": "Repliche"
+            }
+        ]
+    },
+    {
+        "day": 6,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "07:05",
+                "name": "Repliche"
+            },
+            {
+                "startTime": "07:05",
+                "endTime": "07:25",
+                "name": "Lodi"
+            },
+            {
+                "startTime": "07:25",
+                "endTime": "07:30",
+                "name": "Angelus recitato da Padre Pio"
+            },
+            {
+                "startTime": "07:30",
+                "endTime": "08:15",
+                "name": "Santa Messa"
+            },
+            {
+                "startTime": "08:15",
+                "endTime": "08:20",
+                "name": "Anteprima Just Today",
+                "description": "Con “Just Today: Esattamente oggi ieri e domani”, dal lunedì al sabato, Padre Pio Tv, affronta temi di cultura, informazione, sociale e chiesa. Con uno sguardo particolare alla vita e alla spiritualità di San Pio da Pietrelcina",
+                "image": "/justtoday.jpg"
+            },
+            {
+                "startTime": "08:20",
+                "endTime": "08:23",
+                "name": "Il buongiorno di Padre Pio"
+            },
+            {
+                "startTime": "08:23",
+                "endTime": "08:25",
+                "name": "Inmeteo"
+            },
+            {
+                "startTime": "08:25",
+                "endTime": "08:30",
+                "name": "Spazio Informazione"
+            },
+            {
+                "startTime": "08:30",
+                "endTime": "10:00",
+                "name": "Just Today: Esattamente oggi, ieri e domani",
+                "description": "Con “Just Today: Esattamente oggi ieri e domani”, dal lunedì al sabato, Padre Pio Tv, affronta temi di cultura, informazione, sociale e chiesa. Con uno sguardo particolare alla vita e alla spiritualità di San Pio da Pietrelcina",
+                "image": "/justtoday.jpg"
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "10:30",
+                "name": "Il Rosario di Padre Pio"
+            },
+            {
+                "startTime": "10:30",
+                "endTime": "11:00",
+                "name": "Nel Cuore della Speranza - Voci e storie del Giubileo",
+                "description": "Interviste e collegamenti per raccontare gli eventi giubilari, in questo anno della speranza, con uno sguardo al prossimo e al bene. Con e di Leonardo Fania e Paola Russo",
+                "image": "/nelcuoredellasperanza.png"
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "11:30",
+                "name": "Lo Scrigno dei Ricordi"
+            },
+            {
+                "startTime": "11:30",
+                "endTime": "12:20",
+                "name": "Santa Messa"
+            },
+            {
+                "startTime": "12:20",
+                "endTime": "12:25",
+                "name": "Angelus recitato da Padre Pio"
+            },
+            {
+                "startTime": "12:25",
+                "endTime": "12:45",
+                "name": "1 minuto con Padre Pio",
+                "subtitle": "A cura di Francesco Bosco",
+                "description": "Ogni giorno Francesco Bosco racconta la storia di Padre Pio attraverso fatti e aneddoti.",
+                "image": "/unminutoconpadrepio.jpg"
+            },
+            {
+                "startTime": "12:45",
+                "endTime": "12:55",
+                "name": "Inmeteo"
+            },
+            {
+                "startTime": "12:55",
+                "endTime": "13:00",
+                "name": "Dritto al Cuore",
+                "subtitle": "A cura di Don Francesco Armenti",
+                "description": "Parola, fatti, testimoni e scritti che nutrono l’anima e allargano il cuore",
+                "image": "/drittoalcuore.png"
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "13:45",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            },
+            {
+                "startTime": "13:45",
+                "endTime": "14:15",
+                "name": "Il Rosario di Padre Pio"
+            },
+            {
+                "startTime": "14:15",
+                "endTime": "15:00",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            },
+            {
+                "startTime": "15:00",
+                "endTime": "15:45",
+                "name": "Coroncina alla Divina Misericordia"
+            },
+            {
+                "startTime": "15:45",
+                "endTime": "16:30",
+                "name": "Just Today: Esattamente oggi, ieri e domani (replica)",
+                "description": "Con “Just Today: Esattamente oggi ieri e domani”, dal lunedì al sabato, Padre Pio Tv, affronta temi di cultura, informazione, sociale e chiesa. Con uno sguardo particolare alla vita e alla spiritualità di San Pio da Pietrelcina",
+                "image": "/justtoday.jpg"
+            },
+            {
+                "startTime": "16:30",
+                "endTime": "17:00",
+                "name": "Itinerari Domenicali",
+                "subtitle": "A cura di Nicola Morcavallo",
+                "description": "Conversazioni a cuore aperto.",
+                "image": "/itineraridomenicali.jpg"
+            },
+            {
+                "startTime": "17:00",
+                "endTime": "17:20",
+                "name": "L'Agenda del Santuario",
+                "subtitle": "A cura di Paola Russo",
+                "description": "Ogni settimana, in collaborazione con l’Ufficio Accoglienza Pellegrini, gli eventi, gli appuntamenti e le iniziative promosse nel Santuario di San Pio da Pietrelcina dai Frati Minori Cappuccini.",
+                "image": "/lagendadelsantuario.png"
+            },
+            {
+                "startTime": "17:20",
+                "endTime": "17:30",
+                "name": "Il Signore dei Giorni",
+                "subtitle": "A cura di Frate Francesco Dileo",
+                "description": "Ogni settimana, Fra Francesco Dileo, Rettore del Santuario di San Pio da Pietrelcina in San Giovanni Rotondo, commenta il Vangelo della Domenica.",
+                "image": "/ilsignoredeigiorni.jpg"
+            },
+            {
+                "startTime": "17:30",
+                "endTime": "18:00",
+                "name": "Santo Rosario"
+            },
+            {
+                "startTime": "18:00",
+                "endTime": "19:10",
+                "name": "Santa Messa"
+            },
+            {
+                "startTime": "19:10",
+                "endTime": "19:30",
+                "name": "Vespri"
+            },
+            {
+                "startTime": "19:30",
+                "endTime": "19:40",
+                "name": "The Voice of Padre Pio",
+                "description": "Fra Bryan Shortall OFM Cap, ogni sabato alle 20:15, ci parla di Padre Pio in inglese con The Voice of Padre Pio.",
+                "image": "/thevoiceofpadrepio.jpg"
+            },
+            {
+                "startTime": "19:40",
+                "endTime": "20:00",
+                "name": "Dritto al Cuore",
+                "subtitle": "A cura di Don Francesco Armenti",
+                "description": "Parola, fatti, testimoni e scritti che nutrono l’anima e allargano il cuore",
+                "image": "/drittoalcuore.png"
+            },
+            {
+                "startTime": "20:00",
+                "endTime": "20:30",
+                "name": "Lampada per i miei Passi"
+            },
+            {
+                "startTime": "20:30",
+                "endTime": "20:35",
+                "name": "1 minuto con Padre Pio",
+                "subtitle": "A cura di Francesco Bosco",
+                "description": "Ogni giorno Francesco Bosco racconta la storia di Padre Pio attraverso fatti e aneddoti.",
+                "image": "/unminutoconpadrepio.jpg"
+            },
+            {
+                "startTime": "20:35",
+                "endTime": "20:40",
+                "name": "Inmeteo"
+            },
+            {
+                "startTime": "20:40",
+                "endTime": "21:00",
+                "name": "Cercando Padre Pio",
+                "subtitle": "A cura di Frate Luigi Lavecchia",
+                "description": "Il programma nasce per un precisa volontà di far uscire la presentazione di san Pio da Pietrelcina dallo stretto ambito dell’aneddotica e testimonianze varie, che conservano il loro valore la loro preziosità inconfutabili, ma che la riducono negli angusti spazi delle emozioni e suggestioni. È chiara convinzione che attualmente lo Stigmatizzato del Gargano merita di essere considerato dal punto di vista teologico, per tentare di capire la straordinaria grandezza che ha riguardato la sua vicenda umana e mistica. Esso si rivolge al pubblico vasto composto da devoti, studiosi, gente comune, ma anche curiosi. Per tal fine la scelta di campo è di privilegiare la fonte prima che è il suo Epistolario e farsi condurre dalla presentazione che gli editori cappuccini, padre Alessandro da Ripabottoni e padre Melchiorre da Pobladura ci hanno consegnato, percorrendo in tal modo un preciso tracciato relativo alle notizie sullo Stigmatizzato del Gargano: itinerario biografico, la sua personalità, la sua missione, i direttori spirituali, l’epistolario, la direzione spirituale, l’itinerario mistico, i fenomeni mistici.",
+                "image": "/cercandopadrepio.jpg"
+            },
+            {
+                "startTime": "21:00",
+                "endTime": "22:00",
+                "name": "Fiaccolata Mariana",
+                "description": "La Fiaccolata Mariana, nel Santuario di Padre Pio in San Giovanni Rotondo.",
+                "image": "/fiaccolatamariana.jpg"
+            },
+            {
+                "startTime": "22:00",
+                "endTime": "22:10",
+                "name": "Compieta"
+            },
+            {
+                "startTime": "22:10",
+                "endTime": "22:12",
+                "name": "Benedizione di Padre Pio"
+            },
+            {
+                "startTime": "22:12",
+                "endTime": "00:00",
+                "name": "Repliche"
+            }
+        ]
+    },
+    {
+        "day": 7,
+        "entries": [
+            {
+                "startTime": "00:00",
+                "endTime": "07:00",
+                "name": "Repliche"
+            },
+            {
+                "startTime": "07:00",
+                "endTime": "07:18",
+                "name": "Lodi"
+            },
+            {
+                "startTime": "07:18",
+                "endTime": "07:20",
+                "name": "Angelus recitato da Padre Pio"
+            },
+            {
+                "startTime": "07:20",
+                "endTime": "07:30",
+                "name": "Il Signore dei Giorni",
+                "subtitle": "A cura di Frate Francesco Dileo",
+                "description": "Ogni settimana, Fra Francesco Dileo, Rettore del Santuario di San Pio da Pietrelcina in San Giovanni Rotondo, commenta il Vangelo della Domenica.",
+                "image": "/ilsignoredeigiorni.jpg"
+            },
+            {
+                "startTime": "07:30",
+                "endTime": "08:20",
+                "name": "Santa Messa"
+            },
+            {
+                "startTime": "08:20",
+                "endTime": "08:25",
+                "name": "Il buongiorno di Padre Pio"
+            },
+            {
+                "startTime": "08:25",
+                "endTime": "08:30",
+                "name": "1 minuto con Padre Pio",
+                "subtitle": "A cura di Francesco Bosco",
+                "description": "Ogni giorno Francesco Bosco racconta la storia di Padre Pio attraverso fatti e aneddoti.",
+                "image": "/unminutoconpadrepio.jpg"
+            },
+            {
+                "startTime": "08:30",
+                "endTime": "08:35",
+                "name": "Dritto al Cuore",
+                "subtitle": "A cura di Don Francesco Armenti",
+                "description": "Parola, fatti, testimoni e scritti che nutrono l’anima e allargano il cuore",
+                "image": "/drittoalcuore.png"
+            },
+            {
+                "startTime": "08:35",
+                "endTime": "08:40",
+                "name": "Inmeteo"
+            },
+            {
+                "startTime": "08:40",
+                "endTime": "09:15",
+                "name": "Fatti per il Cielo",
+                "subtitle": "A cura di Don Francesco Cristofaro"
+            },
+            {
+                "startTime": "09:15",
+                "endTime": "09:45",
+                "name": "Laudato Sii",
+                "subtitle": "A cura di Frate Rinaldo Totaro",
+                "description": "Fra Rinaldo Totaro ogni domenica, alle ore 9:15, insieme a Francesco Bertani e Giuseppe Gatta, ci parla della spiritualità del creato nello stile francescano.",
+                "image": "/laudatosii.jpg"
+            },
+            {
+                "startTime": "09:45",
+                "endTime": "10:00",
+                "name": "Il Mondo di Padre Pio",
+                "subtitle": "Con Padre Guglielmo Alimonti, a cura di M. C. Buenza",
+                "description": "Padre Guglielmo Alimonti OFM Cap racconta la storia dei Figli Spirituali di Padre Pio partendo dalla sua persona.",
+                "image": "/ilmondodipadrepio.png"
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "10:30",
+                "name": "Il Rosario di Padre Pio"
+            },
+            {
+                "startTime": "10:30",
+                "endTime": "11:00",
+                "name": "Itinerari Domenicali",
+                "subtitle": "A cura di Nicola Morcavallo",
+                "description": "Conversazioni a cuore aperto.",
+                "image": "/itineraridomenicali.jpg"
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "11:20",
+                "name": "Cercando Padre Pio",
+                "subtitle": "A cura di Frate Luigi Lavecchia",
+                "description": "Il programma nasce per un precisa volontà di far uscire la presentazione di san Pio da Pietrelcina dallo stretto ambito dell’aneddotica e testimonianze varie, che conservano il loro valore la loro preziosità inconfutabili, ma che la riducono negli angusti spazi delle emozioni e suggestioni. È chiara convinzione che attualmente lo Stigmatizzato del Gargano merita di essere considerato dal punto di vista teologico, per tentare di capire la straordinaria grandezza che ha riguardato la sua vicenda umana e mistica. Esso si rivolge al pubblico vasto composto da devoti, studiosi, gente comune, ma anche curiosi. Per tal fine la scelta di campo è di privilegiare la fonte prima che è il suo Epistolario e farsi condurre dalla presentazione che gli editori cappuccini, padre Alessandro da Ripabottoni e padre Melchiorre da Pobladura ci hanno consegnato, percorrendo in tal modo un preciso tracciato relativo alle notizie sullo Stigmatizzato del Gargano: itinerario biografico, la sua personalità, la sua missione, i direttori spirituali, l’epistolario, la direzione spirituale, l’itinerario mistico, i fenomeni mistici.",
+                "image": "/cercandopadrepio.jpg"
+            },
+            {
+                "startTime": "11:20",
+                "endTime": "11:30",
+                "name": "Il Signore dei Giorni",
+                "subtitle": "A cura di Frate Francesco Dileo",
+                "description": "Ogni settimana, Fra Francesco Dileo, Rettore del Santuario di San Pio da Pietrelcina in San Giovanni Rotondo, commenta il Vangelo della Domenica.",
+                "image": "/ilsignoredeigiorni.jpg"
+            },
+            {
+                "startTime": "11:30",
+                "endTime": "12:40",
+                "name": "Santa Messa"
+            },
+            {
+                "startTime": "12:40",
+                "endTime": "12:45",
+                "name": "1 minuto con Padre Pio",
+                "subtitle": "A cura di Francesco Bosco",
+                "description": "Ogni giorno Francesco Bosco racconta la storia di Padre Pio attraverso fatti e aneddoti.",
+                "image": "/unminutoconpadrepio.jpg"
+            },
+            {
+                "startTime": "12:45",
+                "endTime": "13:00",
+                "name": "Angelus recitato dal Papa"
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "13:10",
+                "name": "Dritto al Cuore",
+                "subtitle": "A cura di Don Francesco Armenti",
+                "description": "Parola, fatti, testimoni e scritti che nutrono l’anima e allargano il cuore",
+                "image": "/drittoalcuore.png"
+            },
+            {
+                "startTime": "13:10",
+                "endTime": "13:15",
+                "name": "Inmeteo"
+            },
+            {
+                "startTime": "13:15",
+                "endTime": "13:30",
+                "name": "Il Mondo di Padre Pio",
+                "subtitle": "Con Padre Guglielmo Alimonti, a cura di M. C. Buenza",
+                "description": "Padre Guglielmo Alimonti OFM Cap racconta la storia dei Figli Spirituali di Padre Pio partendo dalla sua persona.",
+                "image": "/ilmondodipadrepio.png"
+            },
+            {
+                "startTime": "13:30",
+                "endTime": "13:45",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            },
+            {
+                "startTime": "13:45",
+                "endTime": "14:15",
+                "name": "Il Rosario di Padre Pio"
+            },
+            {
+                "startTime": "14:15",
+                "endTime": "15:00",
+                "name": "Televendite",
+                "image": "/teleshopping.webp"
+            },
+            {
+                "startTime": "15:00",
+                "endTime": "15:45",
+                "name": "Coroncina alla Divina Misericordia"
+            },
+            {
+                "startTime": "15:45",
+                "endTime": "16:15",
+                "name": "Fatti per il Cielo",
+                "subtitle": "A cura di Don Francesco Cristofaro"
+            },
+            {
+                "startTime": "16:15",
+                "endTime": "16:45",
+                "name": "Laudato Sii",
+                "subtitle": "A cura di Frate Rinaldo Totaro",
+                "description": "Fra Rinaldo Totaro ogni domenica, alle ore 9:15, insieme a Francesco Bertani e Giuseppe Gatta, ci parla della spiritualità del creato nello stile francescano.",
+                "image": "/laudatosii.jpg"
+            },
+            {
+                "startTime": "16:45",
+                "endTime": "17:20",
+                "name": "Lo Scrigno dei Ricordi"
+            },
+            {
+                "startTime": "17:20",
+                "endTime": "17:30",
+                "name": "Il Signore dei Giorni",
+                "subtitle": "A cura di Frate Francesco Dileo",
+                "description": "Ogni settimana, Fra Francesco Dileo, Rettore del Santuario di San Pio da Pietrelcina in San Giovanni Rotondo, commenta il Vangelo della Domenica.",
+                "image": "/ilsignoredeigiorni.jpg"
+            },
+            {
+                "startTime": "17:30",
+                "endTime": "18:00",
+                "name": "Santo Rosario"
+            },
+            {
+                "startTime": "18:00",
+                "endTime": "19:10",
+                "name": "Santa Messa"
+            },
+            {
+                "startTime": "19:10",
+                "endTime": "19:30",
+                "name": "Vespri"
+            },
+            {
+                "startTime": "19:30",
+                "endTime": "19:40",
+                "name": "A Voz do Padre Pio",
+                "description": "Ogni domenica alle 20:15 Fra Wilter Malveira OFM Cap racconta Padre Pio in lingua portoghese con A VOZ DO PADRE PIO.",
+                "image": "/avozdopadrepio.jpg"
+            },
+            {
+                "startTime": "19:40",
+                "endTime": "20:00",
+                "name": "Dritto al Cuore",
+                "subtitle": "A cura di Don Francesco Armenti",
+                "description": "Parola, fatti, testimoni e scritti che nutrono l’anima e allargano il cuore",
+                "image": "/drittoalcuore.png"
+            },
+            {
+                "startTime": "20:00",
+                "endTime": "20:15",
+                "name": "Lampada per i miei Passi"
+            },
+            {
+                "startTime": "20:15",
+                "endTime": "20:20",
+                "name": "1 minuto con Padre Pio",
+                "subtitle": "A cura di Francesco Bosco",
+                "description": "Ogni giorno Francesco Bosco racconta la storia di Padre Pio attraverso fatti e aneddoti.",
+                "image": "/unminutoconpadrepio.jpg"
+            },
+            {
+                "startTime": "20:20",
+                "endTime": "20:25",
+                "name": "Inmeteo"
+            },
+            {
+                "startTime": "20:25",
+                "endTime": "20:45",
+                "name": "Il Mondo di Padre Pio",
+                "subtitle": "Con Padre Guglielmo Alimonti, a cura di M. C. Buenza",
+                "description": "Padre Guglielmo Alimonti OFM Cap racconta la storia dei Figli Spirituali di Padre Pio partendo dalla sua persona.",
+                "image": "/ilmondodipadrepio.png"
+            },
+            {
+                "startTime": "20:45",
+                "endTime": "21:25",
+                "name": "Inmeteo"
+            },
+            {
+                "startTime": "21:25",
+                "endTime": "21:40",
+                "name": "Compieta"
+            },
+            {
+                "startTime": "21:40",
+                "endTime": "21:50",
+                "name": "Benedizione di Padre Pio"
+            },
+            {
+                "startTime": "21:50",
+                "endTime": "22:30",
+                "name": "Cammini"
+            },
+            {
+                "startTime": "22:30",
+                "endTime": "00:00",
+                "name": "Repliche"
+            }
+        ]
+    }
+]
