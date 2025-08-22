@@ -18,17 +18,17 @@ export default async function fetchEPG(channels) {
             existingCache = JSON.parse(data);
         } catch { };
         
-        if (existingCache && existingCache["publirose"] && existingCache["publirose"][channels[channel]]) {
-            log("generating", { source: "publirose", channel: channels[channel], day: "N/A - Cachato" });
-            epg[channels[channel]] = existingCache["publirose"][channels[channel]];
-            log("generating-done", { source: "publirose", channel: channels[channel], day: "N/A - Cachato" });
+        if (existingCache && existingCache["canaledieci"] && existingCache["canaledieci"][channels[channel]]) {
+            log("generating", { source: "canaledieci", channel: channels[channel], day: "N/A - Cachato" });
+            epg[channels[channel]] = existingCache["canaledieci"][channels[channel]];
+            log("generating-done", { source: "canaledieci", channel: channels[channel], day: "N/A - Cachato" });
         } else {
             epg[channels[channel]] = [];
             for (const daysToAdd in [...Array(8).keys()]) {
                 const day = DateTime.now().plus({ days: daysToAdd }).toUTC().startOf("day");
                 const date = day.toSeconds();
-                log("generating", { source: "publirose", channel: channels[channel], day: date });
-                await fetch(`https://www.publirose.it/wp2/wp-admin/admin-ajax.php`, {
+                log("generating", { source: "canaledieci", channel: channels[channel], day: date });
+                await fetch(`https://canaledieci.tv/wp-admin/admin-ajax.php`, {
                     method: "POST",
                     headers: {
                         "Content-Type": "application/x-www-form-urlencoded"
@@ -43,7 +43,17 @@ export default async function fetchEPG(channels) {
                     .then(response => response.json())
                     .then(async json => {
                         const { document } = parseHTML(json.html.replaceAll("\t", "").replaceAll("\n", "").replaceAll("\r", ""));
-                        epg[channels[channel]] = [...epg[channels[channel]], ...Array.from(document.querySelectorAll("tbody tr")).flatMap(entry => {
+                        epg[channels[channel]] = [...epg[channels[channel]], {
+                            name: "Programmazione notturna",
+                            startTime: {
+                                unix: day.setZone("Europe/Rome").minus({ hours: 2 }).toMillis(),
+                                iso: day.setZone("Europe/Rome").minus({ hours: 2 }).toISO()
+                            },
+                            endTime: {
+                                unix: day.set({ hour: 6 }).setZone("Europe/Rome").minus({ hours: 2 }).toMillis(),
+                                iso: day.set({ hour: 6 }).setZone("Europe/Rome").minus({ hours: 2 }).toISO()
+                            }
+                        }, ...Array.from(document.querySelectorAll("tbody tr")).flatMap(entry => {
                             const startTime = day.setZone("Europe/Rome").set({
                                 hour: entry.querySelector(".extvs-table1-time").innerText.split(":")[0],
                                 minutes: entry.querySelector(".extvs-table1-time").innerText.split(":")[1]
@@ -64,24 +74,21 @@ export default async function fetchEPG(channels) {
                                 }
                             };
                             if (entry.querySelector(".extvs-collap-ct") && entry.querySelector(".extvs-collap-ct").innerText.trim()) result.description = entry.querySelector(".extvs-collap-ct").innerText.trim();
-                            if (entry.querySelector("img")) {
-                                result.image = entry.querySelector("img").src.split("-").slice(0, -1).join("-") + "." + entry.querySelector("img").src.split("-").slice(-1)[0].split(".").slice(-1)[0];
-                            };
     
                             return result;
                         })];
-                        log("generating-done", { source: "publirose", channel: channels[channel], day: date });
+                        log("generating-done", { source: "canaledieci", channel: channels[channel], day: date });
                         await fs.writeFile(
                             path.join(__dirname, "../.epg-cache.json"),
                             JSON.stringify(merge({}, existingCache, {
-                                publirose: epg
+                                canaledieci: epg
                             }), null, 4)
                         );
                     })
-                    .catch(err => log("generating-fail", { source: "publirose", channel: channels[channel], day: date, error: err }));
+                    .catch(err => log("generating-fail", { source: "canaledieci", channel: channels[channel], day: date, error: err }));
             };
         };
-        log("spacer", { width: 74 });
+        log("spacer", { width: 77 });
     };
 
     return epg;

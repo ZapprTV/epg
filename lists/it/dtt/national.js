@@ -10,6 +10,7 @@ import superguidatv from "../../../sources/superguidatv";
 import samsungtvplus from "../../../sources/samsungtvplus";
 import rtl from "../../../sources/rtl";
 import set from "../../../sources/set";
+import digitalbitrate from "../../../sources/digitalbitrate";
 
 export default {
     raiplay: { fetch: raiplay, channels: ["rai-1", "rai-2", "rai-3", "rai-4", "rai-5", "rai-movie", "rai-premium", "rai-gulp", "rai-yoyo", "rai-news-24", "rai-storia", "rai-scuola", "rai-sport", "rai-radio-2"] },
@@ -23,5 +24,6 @@ export default {
     superguidatv: { fetch: superguidatv, channels: [1284191387, 464] },
     samsungtvplus: { fetch: samsungtvplus, channels: ["IT600001L6", "IT50001295"] },
     rtl: { fetch: rtl, channels: ["radiofreccia", "radiozeta"] },
-    set: { fetch: set, channels: ["italiachannel", "padrepiotv", "fascinotv", "radioroma", "tci", "rtr99", "radioradio"] }
+    set: { fetch: set, channels: ["italiachannel", "padrepiotv", "fascinotv", "radioroma", "tci", "rtr99", "radioradio"] },
+    digitalbitrate: { fetch: digitalbitrate, channels: ["tlu/TLU_CH22_2010"] }
 };

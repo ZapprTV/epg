@@ -24,7 +24,7 @@ console.log("");
 log("spacer");
 console.log("");
 
-const regionalSources = await fs.readdir(path.join(__dirname, "lists/it/dtt/regional"));
+const regionalSources = (await fs.readdir(path.join(__dirname, "lists/it/dtt/regional"))).filter(file => file.endsWith(".js"));
 
 for (const source of regionalSources) {
     const region = path.basename(source, ".js");
