@@ -1,25 +1,159 @@
 Questa repo contiene una GitHub Action che genera l'EPG per Zappr ogni 4 ore. I vari grabber per le sorgenti sono nella cartella [`/sources`](/sources/).
 
 ## Sorgenti usate
-- **[blue TV](https://tv.blue.ch)**
-    - Per Mediaset, LA7, Sky, WBD, TV2000, RTL 102.5, Super!, Sportitalia, SoloCalcio, BIKE, SuperTennis, Alma TV, Deejay TV, Canale Italia, Digi 24, Parole di Vita, San Marino RTV, Class TV Moda, France 24 (in francese e in inglese) e Sky News
+### Nazionali
 - **[RaiPlay](https://raiplay.it)**
-    - Per i canali TV Rai
-- **[RaiPlay Sound](https://raiplaysound.it)**
-    - Per i canali radio Rai
+    - _Canali TV Rai_
+- **[blue TV](https://tv.blue.ch)**
+    - Mediaset
+    - LA7
+    - Sky
+    - WBD
+    - TV2000
+    - RTL 102.5
+    - Super!
+    - Sportitalia
+    - SoloCalcio
+    - BIKE
+    - SuperTennis
+    - Alma TV
+    - Deejay TV
+    - Canale Italia
+    - Digi 24
+    - Parole di Vita
+    - San Marino RTV
+    - Class TV Moda
+    - France 24 (in francese e in inglese)
+    - Sky News
 - **[Tivù la Guida](https://tivu.tv)**
-    - Per QVC, Radio Italia e RDS Social TV
+    - QVC
+    - Radio Italia
+    - RDS Social TV
 - **[Mediaset Infinity](https://mediasetinfinity.mediaset.it)**
-    - Per i canali TV di RadioMediaset
+    - _Canali TV di RadioMediaset_
 - **[Cusano Media Play](https://cusanomediaplay.it)**
-    - Per Canale 122 e Radio Cusano Campus
+    - Canale 122
+    - Radio Cusano Campus
+- **DTT** (tramite **[DigitalBitrate](https://digitalbitrate.com)**)
+    - SuperTV
 - **[Publirose](https://publirose.it)**
-    - Per Telecampione
+    - Telecampione
 - **Sky**
-    - Per EQUtv, Gambero Rosso e Class CNBC
+    - EQUtv
+    - Gambero Rosso
+    - Class CNBC
 - **Samsung TV Plus**
-    - Per Urania e Italian Fishing TV
+    - Urania
+    - Italian Fishing TV
 - **RTL 102.5**
-    - Per Radiofreccia e Radio Zeta
-- **[Liste manuali](/sources/set/)**
-    - Per Italia Channel, Padre Pio TV, Fascino TV 157, Radio Roma, TCI, RTR 99 e Radio Radio
+    - Radiofreccia
+    - Radio Zeta
+- **[RaiPlay Sound](https://raiplaysound.it)**
+    - _Canali radio Rai_
+- _**[Liste manuali](/sources/set/)**_
+    - Italia Channel
+    - Padre Pio TV
+    - Fascino TV 157
+    - Radio Roma
+    - TCI
+    - RTR 99
+    - Radio Radio
+
+### Regionali
+- **[blue TV](https://tv.blue.ch)**
+    - 3sat _(Bolzano)_
+    - ARTE _(Bolzano)_
+    - BR Alpha _(Bolzano)_
+    - BR Süd _(Bolzano)_
+    - Das Erste _(Bolzano)_
+    - Deutsche Welle _(Bolzano)_
+    - France 24 _(Valle d'Aosta)_
+    - Espansione TV _(Lombardia)_
+    - HR _(Bolzano)_
+    - KiKA _(Bolzano)_
+    - MDR _(Bolzano)_
+    - NDR _(Bolzano)_
+    - ONE _(Bolzano)_
+    - ORF 1 _(Trentino-Alto Adige)_
+    - ORF 2 _(Trentino-Alto Adige)_
+    - ORF 3 _(Trentino-Alto Adige)_
+    - Phoenix _(Bolzano)_
+    - Radio Norba TV _(Basilicata e Puglia)_
+    - rbb _(Bolzano)_
+    - Rete 55 _(Lombardia)_
+    - RSI LA1 _(Bolzano e Valle d'Aosta)_
+    - RSI LA2 _(Bolzano e Valle d'Aosta)_
+    - RTS 1 _(Bolzano e Valle d'Aosta)_
+    - RTS 2  _(Bolzano e Valle d'Aosta)_
+    - ServusTV _(Bolzano)_
+    - SR _(Bolzano)_
+    - SRF 1 _(Bolzano e Valle d'Aosta)_
+    - SRF Zwei _(Bolzano e Valle d'Aosta)_
+    - SWR _(Bolzano)_
+    - tagesschau24 _(Bolzano)_
+    - Telenova _(Lombardia)_
+    - Telenuovo _(Liguria, Piemonte, Trento e Veneto)_
+    - TV5Monde Europe _(Valle d'Aosta)_
+    - WDR _(Bolzano)_
+    - ZDF _(Bolzano)_
+    - ZDFinfo _(Bolzano)_
+    - ZDFneo _(Bolzano)_
+- **DTT** (tramite **[DigitalBitrate](https://digitalbitrate.com)**)
+    - Bergamo TV _(Lombardia)_
+    - Canale 8 _(Campania)_
+    - Delta TV _(Puglia)_
+    - Lira TV _(Campania)_
+    - Milano Pavia TV _(Lombardia)_
+    - Nuvola TV _(Campania)_
+    - SeilaTV Bergamo _(Lombardia)_
+    - StileTV _(Campania)_
+    - SuperTV _(Lazio e Lombardia)_
+    - TeleBoario _(Lombardia)_
+    - Telecity _(Liguria, Lombardia e Piemonte)_
+    - Telecolor _(Emilia-Romagna, Friuli-Venezia Giulia, Lazio, Liguria, Lombardia, Marche, Trentino-Alto Adige e Veneto)_
+    - Telemia _(Calabria)_
+    - Teleuniverso _(Abruzzo, Lazio, Liguria, Molise e Piemonte)_
+    - Televomero _(Campania)_
+    - Tele Dehon _(Basilicata, Calabria, Campania, Emilia-Romagna, Liguria, Puglia, Sardegna e Toscana)_
+    - TEN _(Calabria)_
+    - Top Calcio 24 _(Lombardia e Piemonte)_
+    - Video Calabria _(Calabria e Sicilia)_
+    - Video Mediterraneo _(Sicilia)_
+    - Video Regione _(Sicilia)_
+- **[LaC Play](https://lacplay.it)**
+    - LaC _(Calabria, Liguria e Piemonte)_
+    - LaC On Air _(Calabria)_
+    - LaC Network _(Calabria)_
+- **[Norba Play](https://play.norbaonline.it)**
+    - Telenorba _(Basilicata e Puglia)_
+    - TG Norba 24 _(Basilicata e Puglia)_
+- **SelfTV**
+    - TRC Modena _(Emilia-Romagna)_
+    - TRC Bologna _(Emilia-Romagna)_
+- **[Oggi in TV](https://oggiintv.kaleidosstudio.com)**
+    - Telepace _(Basilicata, Calabria, Campania, Emilia-Romagna, Lazio, Liguria, Puglia, Sardegna, Toscana e Veneto)_
+- **[Publirose](https://publirose.it)**
+    - Telereporter _(Emilia-Romagna, Liguria, Lombardia e Piemonte)_
+- **Sky**
+    - TRM h24 _(Basilicata e Puglia)_
+- _**[Liste manuali](/sources/set/)**_
+    - Radio Roma _(Lazio)_
+    - RTR 99 _(Emilia-Romagna, Lazio e Lombardia)_
+    - Radio Radio _(Lazio)_
+- _**Rispettivi siti / app**_
+    - Antenna Tre Nordest _(Friuli-Venezia Giulia, Trento e Veneto)_
+    - Canale 10 _(Lazio)_
+    - CR1 _(Lombardia)_
+    - èTV Marche _(Emilia-Romagna, Lazio, Liguria, Lombardia, Marche e Trentino-Alto Adige)_
+    - Gold TV _(Emilia-Romagna, Friuli-Venezia Giulia, Lazio, Liguria, Lombardia, Marche, Sicilia, Toscana, Trentino-Alto Adige e Veneto)_
+    - Lazio TV _(Emilia-Romagna, Friuli-Venezia Giulia, Lazio, Liguria, Lombardia, Marche, Sicilia, Toscana, Trentino-Alto Adige e Veneto)_
+    - Rete Veneta _(Veneto)_
+    - RTV38 _(Toscana)_
+    - Telechiara _(Friuli-Venezia Giulia, Trentino-Alto Adige e Veneto)_
+    - Telerent _(Sicilia)_
+    - Telequattro _(Friuli-Venezia Giulia)_
+    - TV12 _(Friuli-Venezia Giulia)_
+    - TV33 _(Emilia-Romagna, Liguria, Lombardia, Marche e Trentino-Alto Adige)_
+    - TVA Vicenza _(Friuli-Venezia Giulia, Trentino-Alto Adige e Veneto)_
+    - TVM _(Sicilia)_
+    - Vera TV _(Abruzzo e Marche)_

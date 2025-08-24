@@ -28,7 +28,7 @@ export default async function fetchEPG(channels) {
             await fetch(`https://api.xdevel.com/radioplayer/mobileview/schedule-json-read/${channels[channel]}?clientId=21ebd41ea06f196db27c1c8060b2409133e2d832&showAll=true`)
                 .then(response => response.json())
                 .then(async json => {
-                    const weekday = DateTime.now().localWeekday - 2;
+                    const weekday = DateTime.now().setLocale("it").localWeekday - 1;
                     epg[channels[channel]] = [...epg[channels[channel]], ...Object.keys(json.result.days).filter((el, index) => index >= weekday).concat(Object.keys(json.result.days).filter((el, index) => index < weekday)).flatMap(el => json.result.days[el]).flatMap(entry => {
                         let startTime = DateTime.fromFormat(`${entry.date} ${entry.hour_start}`, "yyyy-MM-dd HH:mm").setZone("Europe/Rome").minus({ hours: 2 });
                         let endTime = DateTime.fromFormat(`${entry.date} ${entry.hour_end}`, "yyyy-MM-dd HH:mm").setZone("Europe/Rome").minus({ hours: 2 });
