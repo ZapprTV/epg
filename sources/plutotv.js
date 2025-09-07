@@ -5,7 +5,7 @@ import { parseHTML } from "linkedom";
 export default async function fetchEPG(channels) {
     let epg = {};
 
-    await fetch(`https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/it.xml`)
+    await fetch(`https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/it.xml`)
         .then(response => response.text())
         .then(text => {
             const { document } = parseHTML(text);
@@ -13,7 +13,7 @@ export default async function fetchEPG(channels) {
             
             for (const channel in channels) {
                 epg[channels[channel]] = [];
-                log("generating", { source: "samsungtvplus", channel: channels[channel], day: "N/A" });
+                log("generating", { source: "plutotv", channel: channels[channel], day: "N/A" });
                 epg[channels[channel]] = [...epg[channels[channel]], ...Array.from(document.querySelectorAll(`programme[channel="${channels[channel]}"]`)).map(entry => {
                     const startTime = DateTime.fromFormat(entry.getAttribute("start"), "yyyyMMddHHmmss +0000").setZone("Europe/Rome").minus({ hours: 2 });
                     const endTime = DateTime.fromFormat(entry.getAttribute("stop"), "yyyyMMddHHmmss +0000").setZone("Europe/Rome").minus({ hours: 2 });
@@ -35,10 +35,10 @@ export default async function fetchEPG(channels) {
 
                     return result;
                 })];
-                log("generating-done", { source: "samsungtvplus", channel: channels[channel], day: "N/A" });
+                log("generating-done", { source: "plutotv", channel: channels[channel], day: "N/A" });
             };
         })
-        .catch(err => log("generating-fail", { source: "samsungtvplus", channel: "N/A", day: "N/A", error: err }));
+        .catch(err => log("generating-fail", { source: "plutotv", channel: "N/A", day: "N/A", error: err }));
 
     log("spacer", { width: 70 });
 
