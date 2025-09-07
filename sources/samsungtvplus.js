@@ -15,8 +15,8 @@ export default async function fetchEPG(channels) {
                 epg[channels[channel]] = [];
                 log("generating", { source: "samsungtvplus", channel: channels[channel], day: "N/A" });
                 epg[channels[channel]] = [...epg[channels[channel]], ...Array.from(document.querySelectorAll(`programme[channel="${channels[channel]}"]`)).map(entry => {
-                    const startTime = DateTime.fromFormat(entry.getAttribute("start"), "yyyyMMddHHmmss +0000").setZone("Europe/Rome").minus({ hours: 2 });
-                    const endTime = DateTime.fromFormat(entry.getAttribute("stop"), "yyyyMMddHHmmss +0000").setZone("Europe/Rome").minus({ hours: 2 });
+                    const startTime = DateTime.fromFormat(entry.getAttribute("start"), "yyyyMMddHHmmss +0000").setZone("Europe/Rome");
+                    const endTime = DateTime.fromFormat(entry.getAttribute("stop"), "yyyyMMddHHmmss +0000").setZone("Europe/Rome");
                     
                     let result = {
                         name: entry.querySelector("title").textContent.trim(),
