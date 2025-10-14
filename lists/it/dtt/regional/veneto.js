@@ -1,10 +1,10 @@
-import tdbnet from "../../../../sources/tdbnet";
-import blue from "../../../../sources/blue";
-import videomedia from "../../../../sources/videomedia";
-import digitalbitrate from "../../../../sources/digitalbitrate";
-import softwarecreation from "../../../../sources/softwarecreation";
-import oggiintv from "../../../../sources/oggiintv";
-import publirose from "../../../../sources/publirose";
+import tdbnet from "../../../../sources/it/tdbnet";
+import blue from "../../../../sources/it/blue";
+import videomedia from "../../../../sources/it/videomedia";
+import digitalbitrate from "../../../../sources/it/digitalbitrate";
+import softwarecreation from "../../../../sources/it/softwarecreation";
+import oggiintv from "../../../../sources/it/oggiintv";
+import publirose from "../../../../sources/it/publirose";
 
 export default {
     tdbnet: { fetch: tdbnet, channels: ["A3", "RV"] },

@@ -1,8 +1,8 @@
-import veratv from "../../../../sources/veratv";
-import ètv from "../../../../sources/ètv";
-import tv33 from "../../../../sources/tv33";
-import digitalbitrate from "../../../../sources/digitalbitrate";
-import softwarecreation from "../../../../sources/softwarecreation";
+import veratv from "../../../../sources/it/veratv";
+import ètv from "../../../../sources/it/ètv";
+import tv33 from "../../../../sources/it/tv33";
+import digitalbitrate from "../../../../sources/it/digitalbitrate";
+import softwarecreation from "../../../../sources/it/softwarecreation";
 
 export default {
     veratv: { fetch: veratv, channels: ["Get_ApiAppMarcheSchedules"] },

@@ -1,10 +1,10 @@
-import ètv from "../../../../sources/ètv";
-import softwarecreation from "../../../../sources/softwarecreation";
-import selftv from "../../../../sources/selftv";
-import digitalbitrate from "../../../../sources/digitalbitrate";
-import oggiintv from "../../../../sources/oggiintv";
-import tv33 from "../../../../sources/tv33";
-import publirose from "../../../../sources/publirose";
+import ètv from "../../../../sources/it/ètv";
+import softwarecreation from "../../../../sources/it/softwarecreation";
+import selftv from "../../../../sources/it/selftv";
+import digitalbitrate from "../../../../sources/it/digitalbitrate";
+import oggiintv from "../../../../sources/it/oggiintv";
+import tv33 from "../../../../sources/it/tv33";
+import publirose from "../../../../sources/it/publirose";
 
 export default {
     ètv: { fetch: ètv, channels: ["Palinsesto_Marche"] },

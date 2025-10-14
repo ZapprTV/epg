@@ -1,5 +1,5 @@
-import veratv from "../../../../sources/veratv";
-import digitalbitrate from "../../../../sources/digitalbitrate";
+import veratv from "../../../../sources/it/veratv";
+import digitalbitrate from "../../../../sources/it/digitalbitrate";
 
 export default {
     veratv: { fetch: veratv, channels: ["Get_ApiAppMarcheSchedules"] },

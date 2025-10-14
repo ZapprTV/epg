@@ -1,7 +1,7 @@
-import rtv38 from "../../../../sources/rtv38";
-import softwarecreation from "../../../../sources/softwarecreation";
-import digitalbitrate from "../../../../sources/digitalbitrate";
-import oggiintv from "../../../../sources/oggiintv";
+import rtv38 from "../../../../sources/it/rtv38";
+import softwarecreation from "../../../../sources/it/softwarecreation";
+import digitalbitrate from "../../../../sources/it/digitalbitrate";
+import oggiintv from "../../../../sources/it/oggiintv";
 
 export default {
     rtv38: { fetch: rtv38, channels: ["RTV38"] },

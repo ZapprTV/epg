@@ -1,7 +1,7 @@
-import tdbnet from "../../../../sources/tdbnet";
-import videomedia from "../../../../sources/videomedia";
-import softwarecreation from "../../../../sources/softwarecreation";
-import digitalbitrate from "../../../../sources/digitalbitrate";
+import tdbnet from "../../../../sources/it/tdbnet";
+import videomedia from "../../../../sources/it/videomedia";
+import softwarecreation from "../../../../sources/it/softwarecreation";
+import digitalbitrate from "../../../../sources/it/digitalbitrate";
 
 export default {
     tdbnet: { fetch: tdbnet, channels: ["T4", "TV12", "A3"] },

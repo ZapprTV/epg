@@ -1,8 +1,8 @@
-import canaledieci from "../../../../sources/canaledieci";
-import digitalbitrate from "../../../../sources/digitalbitrate";
-import softwarecreation from "../../../../sources/softwarecreation";
-import ètv from "../../../../sources/ètv";
-import oggiintv from "../../../../sources/oggiintv";
+import canaledieci from "../../../../sources/it/canaledieci";
+import digitalbitrate from "../../../../sources/it/digitalbitrate";
+import softwarecreation from "../../../../sources/it/softwarecreation";
+import ètv from "../../../../sources/it/ètv";
+import oggiintv from "../../../../sources/it/oggiintv";
 
 export default {
     canaledieci: { fetch: canaledieci, channels: ["canale-dieci"] },

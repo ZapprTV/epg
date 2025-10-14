@@ -1,10 +1,10 @@
-import blue from "../../../../sources/blue";
-import tdbnet from "../../../../sources/tdbnet";
-import digitalbitrate from "../../../../sources/digitalbitrate";
-import tv33 from "../../../../sources/tv33";
-import ètv from "../../../../sources/ètv";
-import softwarecreation from "../../../../sources/softwarecreation";
-import videomedia from "../../../../sources/videomedia";
+import blue from "../../../../sources/it/blue";
+import tdbnet from "../../../../sources/it/tdbnet";
+import digitalbitrate from "../../../../sources/it/digitalbitrate";
+import tv33 from "../../../../sources/it/tv33";
+import ètv from "../../../../sources/it/ètv";
+import softwarecreation from "../../../../sources/it/softwarecreation";
+import videomedia from "../../../../sources/it/videomedia";
 
 export default {
     blue: { fetch: blue, channels: [2057, 303, 302, 1222] },

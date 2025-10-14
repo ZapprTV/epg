@@ -1,8 +1,8 @@
-import norba from "../../../../sources/norba";
-import blue from "../../../../sources/blue";
-import sky from "../../../../sources/sky";
-import digitalbitrate from "../../../../sources/digitalbitrate";
-import oggiintv from "../../../../sources/oggiintv";
+import norba from "../../../../sources/it/norba";
+import blue from "../../../../sources/it/blue";
+import sky from "../../../../sources/it/sky";
+import digitalbitrate from "../../../../sources/it/digitalbitrate";
+import oggiintv from "../../../../sources/it/oggiintv";
 
 export default {
     norba: { fetch: norba, channels: [11313512, 13292552] },

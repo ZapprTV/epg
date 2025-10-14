@@ -1,17 +1,17 @@
-import raiplay from "../../../sources/raiplay";
-import blue from "../../../sources/blue";
-import mediaset from "../../../sources/mediaset";
-import raiplaysound from "../../../sources/raiplaysound";
-import tivu from "../../../sources/tivu";
-import sky from "../../../sources/sky";
-import publirose from "../../../sources/publirose";
-import cusano from "../../../sources/cusano";
-import superguidatv from "../../../sources/superguidatv";
-import samsungtvplus from "../../../sources/samsungtvplus";
-import rtl from "../../../sources/rtl";
-import set from "../../../sources/set";
-import digitalbitrate from "../../../sources/digitalbitrate";
-import plutotv from "../../../sources/plutotv";
+import raiplay from "../../../sources/it/raiplay";
+import blue from "../../../sources/it/blue";
+import mediaset from "../../../sources/it/mediaset";
+import raiplaysound from "../../../sources/it/raiplaysound";
+import tivu from "../../../sources/it/tivu";
+import sky from "../../../sources/it/sky";
+import publirose from "../../../sources/it/publirose";
+import cusano from "../../../sources/it/cusano";
+import superguidatv from "../../../sources/it/superguidatv";
+import samsungtvplus from "../../../sources/it/samsungtvplus";
+import rtl from "../../../sources/it/rtl";
+import set from "../../../sources/it/set";
+import digitalbitrate from "../../../sources/it/digitalbitrate";
+import plutotv from "../../../sources/it/plutotv";
 
 export default {
     raiplay: { fetch: raiplay, channels: ["rai-1", "rai-2", "rai-3", "rai-4", "rai-5", "rai-movie", "rai-premium", "rai-gulp", "rai-yoyo", "rai-news-24", "rai-storia", "rai-scuola", "rai-sport", "rai-radio-2"] },

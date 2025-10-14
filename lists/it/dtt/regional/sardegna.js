@@ -1,5 +1,5 @@
-import oggiintv from "../../../../sources/oggiintv";
-import digitalbitrate from "../../../../sources/digitalbitrate";
+import oggiintv from "../../../../sources/it/oggiintv";
+import digitalbitrate from "../../../../sources/it/digitalbitrate";
 
 export default {
     oggiintv: { fetch: oggiintv, channels: ["Telepace"] },

@@ -1,9 +1,9 @@
-import videomedia from "../../../../sources/videomedia";
-import blue from "../../../../sources/blue";
-import tv33 from "../../../../sources/tv33";
-import digitalbitrate from "../../../../sources/digitalbitrate";
-import ètv from "../../../../sources/ètv";
-import softwarecreation from "../../../../sources/softwarecreation";
+import videomedia from "../../../../sources/it/videomedia";
+import blue from "../../../../sources/it/blue";
+import tv33 from "../../../../sources/it/tv33";
+import digitalbitrate from "../../../../sources/it/digitalbitrate";
+import ètv from "../../../../sources/it/ètv";
+import softwarecreation from "../../../../sources/it/softwarecreation";
 
 export default {
     videomedia: { fetch: videomedia, channels: ["C", "E"] },

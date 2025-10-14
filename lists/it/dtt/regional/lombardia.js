@@ -1,10 +1,10 @@
-import blue from "../../../../sources/blue";
-import digitalbitrate from "../../../../sources/digitalbitrate";
-import tv33 from "../../../../sources/tv33";
-import ètv from "../../../../sources/ètv";
-import softwarecreation from "../../../../sources/softwarecreation";
-import cr1 from "../../../../sources/cr1";
-import publirose from "../../../../sources/publirose";
+import blue from "../../../../sources/it/blue";
+import digitalbitrate from "../../../../sources/it/digitalbitrate";
+import tv33 from "../../../../sources/it/tv33";
+import ètv from "../../../../sources/it/ètv";
+import softwarecreation from "../../../../sources/it/softwarecreation";
+import cr1 from "../../../../sources/it/cr1";
+import publirose from "../../../../sources/it/publirose";
 
 export default {
     blue: { fetch: blue, channels: [1667, 1645, 593, 2113] },
