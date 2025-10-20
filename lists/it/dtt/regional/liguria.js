@@ -1,4 +1,5 @@
 import oggiintv from "../../../../sources/it/oggiintv";
+import uvotv from "../../../../sources/it/uvotv";
 import digitalbitrate from "../../../../sources/it/digitalbitrate";
 import blue from "../../../../sources/it/blue";
 import ètv from "../../../../sources/it/ètv";
@@ -9,7 +10,8 @@ import lacplay from "../../../../sources/it/lacplay";
 
 export default {
     oggiintv: { fetch: oggiintv, channels: ["Telepace"] },
-    digitalbitrate: { fetch: digitalbitrate, channels: ["tca/TCA_CH32_9818", "tlu/TLU_CH21_1008", "tlu/TLU_CH34_25", "tro/TRO_CH27_6803", "tlu/TLU_CH21_1004"] },
+    uvotv: { fetch: uvotv, channels: ["TELENORD_it", "TELERADIOPACE 1_it", "TELERADIOPACE 2_it", "Tele Dehon_it", "Icaro TV_it", "TELECITY_it", "eTV Rete 7.tvprofil_it", "RTTR_it", "Telemolise.tvprofil_it", "Primantenna_it", "RETE 7.tvprofil_it", "TELECOLOR.tvprofil_it"] },
+    digitalbitrate: { fetch: digitalbitrate, channels: ["tlu/TLU_CH21_1008", "tro/TRO_CH27_6803", "tlu/TLU_CH21_1004"] },
     blue: { fetch: blue, channels: [2057] },
     ètv: { fetch: ètv, channels: ["Palinsesto_Marche"] },
     publirose: { fetch: publirose, channels: ["telereporter"] },
