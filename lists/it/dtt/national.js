@@ -14,7 +14,7 @@ import digitalbitrate from "../../../sources/it/digitalbitrate";
 import plutotv from "../../../sources/it/plutotv";
 
 export default {
-    raiplay: { fetch: raiplay, channels: ["rai-1", "rai-2", "rai-3", "rai-4", "rai-5", "rai-movie", "rai-premium", "rai-gulp", "rai-yoyo", "rai-news-24", "rai-storia", "rai-scuola", "rai-sport", "rai-radio-2"] },
+    raiplay: { fetch: raiplay, channels: ["rai-1", "rai-2", "rai-3", "rai-4", "rai-5", "rai-movie", "rai-premium", "rai-gulp", "rai-yoyo", "rai-news-24", "rai-storia", "rai-scuola", "rai-sport", "rai-radio-2", "raiplay", "raiplay-2", "raiplay-3", "raiplay-sport-1", "raiplay-sport-2", "raiplay-sport-3"] },
     blue: { fetch: blue, channels: [348, 79, 215, 237, 266, 118, 1379, 214, 96, 1948, 633, 239, 243, 346, 1348, 1665, 1346, 1489, 124, 191, 613, 51, 225, 189, 84, 412, 216, 393, 1287, 137, 257, 1646, 1384, 1387, 2049, 2054, 1386, 16, 1641, 80, 2066, 1951, 1719, 101, 183, 1639, 390] },
     uvotv: { fetch: uvotv, channels: ["Boing Plus_it", "REGGIO TV.tvprofil_it", "Maria Vision IT.tvprofil_it", "RADIO ZETA_tvprofil_it"] },
     mediaset: { fetch: mediaset, channels: ["ER", "EC", "EW"] },
